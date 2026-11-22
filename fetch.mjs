@@ -203,7 +203,11 @@ async function fetchWeather() {
 
 // ---------------- 热搜 ----------------
 async function fetchHotPlatform(p) {
-  const mk = (items) => ({ id: p.id, name: p.name, kind: p.kind, items, stale: false });
+  const mk = (items) => ({
+    id: p.id, name: p.name, kind: p.kind,
+    items: items.filter((it) => it && it.title && it.url),
+    stale: false,
+  });
   try {
     switch (p.id) {
       case "weibo": {
@@ -218,10 +222,22 @@ async function fetchHotPlatform(p) {
       }
       case "baidu": {
         const j = await fetchJSON("https://top.baidu.com/api/board?platform=wise&tab=realtime");
-        const card = (j.data?.cards || []).find((x) => x.content?.length) || (j.data?.cards || [])[0];
-        const list = (card?.content || []).slice(0, OPTIONS.perHotMax);
-        return mk(list.map((it, i) => ({
-          rank: i + 1, title: it.word, hot: it.hotScore || it.hotTag || "",
+        // 百度接口层级常变, 递归收集所有带 word 字段的词条
+        const seen = new Set();
+        const list = [];
+        const walk = (node) => {
+          if (!node) return;
+          if (Array.isArray(node)) { for (const x of node) walk(x); return; }
+          if (typeof node !== "object") return;
+          if (typeof node.word === "string" && node.word) {
+            if (!seen.has(node.word)) { seen.add(node.word); list.push(node); }
+            return;
+          }
+          for (const k of ["content", "list", "children", "data"]) if (node[k]) walk(node[k]);
+        };
+        walk(j.data?.cards);
+        return mk(list.slice(0, OPTIONS.perHotMax).map((it, i) => ({
+          rank: i + 1, title: it.word, hot: it.hotScore || it.newHotName || "",
           url: it.rawUrl || it.url || `https://www.baidu.com/s?wd=${encodeURIComponent(it.word)}`,
         })));
       }
