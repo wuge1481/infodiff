@@ -103,14 +103,14 @@ function gnewsUrl(cfg) {
 // 主: Open-Meteo(免 key, 数据全, 需可访问国外网络)
 // 备: wthrcdn.etouch.cn(中国可访问, 免 key, 数据较简)
 function weatherTextIcon(t = "") {
-  if (/晴/.test(t)) return "☀️";
-  if (/多云|云/.test(t)) return "⛅";
-  if (/阴/.test(t)) return "☁️";
-  if (/雷/.test(t)) return "⛈️";
-  if (/雨/.test(t)) return "🌧️";
-  if (/雪/.test(t)) return "❄️";
-  if (/雾|霾/.test(t)) return "🌫️";
-  if (/风|沙|尘/.test(t)) return "🌬️";
+  if (/晴|clear|sunny/i.test(t)) return "☀️";
+  if (/多云|云|cloudy|partly/i.test(t)) return "⛅";
+  if (/阴|overcast/i.test(t)) return "☁️";
+  if (/雷|thunder/i.test(t)) return "⛈️";
+  if (/雨|rain|drizzle|shower/i.test(t)) return "🌧️";
+  if (/雪|snow/i.test(t)) return "❄️";
+  if (/雾|霾|fog|mist|haze/i.test(t)) return "🌫️";
+  if (/风|沙|尘|wind|dust/i.test(t)) return "🌬️";
   return "🌡️";
 }
 const parseTemp = (s) => { const m = String(s || "").match(/(-?\d+)/); return m ? parseInt(m[1], 10) : null; };
@@ -181,11 +181,43 @@ async function withRetry(fn, attempts = 3, delayMs = 800) {
   throw lastErr;
 }
 
+async function fetchWeatherWttr(c) {
+  const url = `https://wttr.in/${encodeURIComponent(c.name)}?format=j1&lang=zh`;
+  const j = await fetchJSON(url, { timeoutMs: 12000 });
+  const cur = (j.current_condition && j.current_condition[0]) || {};
+  const text = (cur.lang_zh && cur.lang_zh[0] && cur.lang_zh[0].value) ||
+               (cur.weatherDesc && cur.weatherDesc[0] && cur.weatherDesc[0].value) || "";
+  const daily = (j.weather || []).slice(0, 7).map((d) => {
+    const h = (d.hourly && d.hourly[0]) || {};
+    const dt = (h.lang_zh && h.lang_zh[0] && h.lang_zh[0].value) ||
+               (h.weatherDesc && h.weatherDesc[0] && h.weatherDesc[0].value) || "";
+    return {
+      date: d.date, code: null,
+      text: dt, icon: weatherTextIcon(dt),
+      tmax: Math.round(parseFloat(d.maxtempC)),
+      tmin: Math.round(parseFloat(d.mintempC)),
+      precipProb: null,
+    };
+  });
+  const temp = parseFloat(cur.temp_C);
+  return {
+    name: c.name,
+    current: {
+      temp: isNaN(temp) ? null : Math.round(temp),
+      apparent: Math.round(parseFloat(cur.FeelsLikeC)) || null,
+      humidity: parseFloat(cur.humidity) || null,
+      wind: parseFloat(cur.windspeedKmph) || null,
+      code: null, text, icon: weatherTextIcon(text),
+    },
+    daily, stale: false,
+  };
+}
+
 async function fetchWeather() {
   const cities = [];
   for (const c of CITIES) {
     let city = null;
-    for (const fn of [fetchWeatherOpenMeteo, fetchWeatherEtouch]) {
+    for (const fn of [fetchWeatherOpenMeteo, fetchWeatherEtouch, fetchWeatherWttr]) {
       try {
         city = await withRetry(() => fn(c), 3, 800);
         log(`天气: ${c.name} OK (${fn.name})`);
@@ -305,19 +337,39 @@ async function fetchHotPlatform(p) {
   }
 }
 
-// ---------------- 翻译 (Google gtx 免费端点) ----------------
-async function translateOnce(text) {
+// ---------------- 翻译 (多端点回退: Google gtx → MyMemory) ----------------
+async function translateGtx(text) {
   const url =
     `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=zh-CN&dt=t&q=${encodeURIComponent(text)}`;
   const j = await fetchJSON(url, { timeoutMs: 8000 });
   const seg = (j && j[0]) || [];
-  const out = seg.map((s) => s && s[0]).filter(Boolean).join("");
-  return out.trim();
+  return seg.map((s) => s && s[0]).filter(Boolean).join("").trim();
+}
+
+async function translateMyMemory(text) {
+  const url =
+    `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|zh-CN`;
+  const j = await fetchJSON(url, { timeoutMs: 10000 });
+  const t = (j && j.responseData && j.responseData.translatedText) || "";
+  if (!t || /MYMEMORY WARNING|QUERY LENGTH LIMIT|NO QUERY SPECIFIED/i.test(t)) return "";
+  return t.trim();
+}
+
+async function translateOnce(text) {
+  for (const fn of [translateGtx, translateMyMemory]) {
+    try {
+      const r = await fn(text);
+      if (r && r.length && r !== text) return r;
+    } catch {
+      // 尝试下一个端点
+    }
+  }
+  return "";
 }
 
 async function translateMany(texts) {
   const out = new Map();
-  let todo = texts.slice(0, OPTIONS.translateMax);
+  const todo = texts.slice(0, OPTIONS.translateMax);
   let idx = 0;
   const workers = Array.from({ length: OPTIONS.translateConcurrency }, async () => {
     while (idx < todo.length) {
@@ -451,6 +503,9 @@ async function applyTranslation(newsCategories, hotPlatforms) {
   if (!need.length) return;
   log(`翻译 ${need.length} 条国外内容…`);
   const map = await translateMany(need);
+  let ok = 0;
+  for (const v of map.values()) if (v) ok++;
+  log(`翻译成功 ${ok}/${need.length} 条`);
   const lookup = (t) => map.get(t) || "";
   for (const cat of newsCategories) {
     for (const sub of cat.subs) {
