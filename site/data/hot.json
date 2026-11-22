@@ -1,0 +1,449 @@
+{
+  "updatedAt": "2026-11-22T11:04:03.489Z",
+  "platforms": [
+    {
+      "id": "weibo",
+      "name": "微博热搜",
+      "kind": "cn",
+      "items": [
+        {
+          "rank": 1,
+          "title": "主播私闯果园带货糟蹋一千多斤苹果",
+          "hot": "123万",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E4%B8%80%E5%8D%83%E5%A4%9A%E6%96%A4%E8%8B%B9%E6%9E%9C"
+        },
+        {
+          "rank": 2,
+          "title": "菲律宾8名警察绑架中国女富商",
+          "hot": "87万",
+          "url": "https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE8%E5%90%8D%E8%AD%A6%E5%AF%9F%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%8C%E5%95%86"
+        },
+        {
+          "rank": 3,
+          "title": "温差待消弭信心不可失",
+          "hot": "71万",
+          "url": "https://s.weibo.com/weibo?q=%E6%B8%A9%E5%B7%AE%E5%BE%85%E6%B6%88%E5%BC%AD%E4%BF%A1%E5%BF%83%E4%B8%8D%E5%8F%AF%E5%A4%B1"
+        },
+        {
+          "rank": 4,
+          "title": "韩国网友感谢中国",
+          "hot": "65万",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD"
+        },
+        {
+          "rank": 5,
+          "title": "第一批买iPhoneDuo的人亏麻了",
+          "hot": "48万",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0iPhoneDuo%E7%9A%84%E4%BA%BA%E4%BA%8F%E9%BA%BB%E4%BA%86"
+        },
+        {
+          "rank": 6,
+          "title": "方力申破世界纪录",
+          "hot": "39万",
+          "url": "https://s.weibo.com/weibo?q=%E6%96%B9%E5%8A%9B%E7%94%B3%E7%A0%B4%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95"
+        },
+        {
+          "rank": 7,
+          "title": "张家齐妈妈向张家齐道歉",
+          "hot": "23万",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%90%91%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%81%93%E6%AD%89"
+        },
+        {
+          "rank": 8,
+          "title": "女博士卧底当主播称至今心理阴影",
+          "hot": "22万",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E5%BD%93%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%87%B3%E4%BB%8A%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1"
+        },
+        {
+          "rank": 9,
+          "title": "主播回应私闯果园带货糟蹋千斤苹果",
+          "hot": "21万",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%BB%E6%92%AD%E5%9B%9E%E5%BA%94%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E5%B8%A6%E8%B4%A7%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C"
+        },
+        {
+          "rank": 10,
+          "title": "张雪摔倒后回应是否开发更矮的车",
+          "hot": "20万",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%91%94%E5%80%92%E5%90%8E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%BC%80%E5%8F%91%E6%9B%B4%E7%9F%AE%E7%9A%84%E8%BD%A6"
+        },
+        {
+          "rank": 11,
+          "title": "金价跌到760元菜百金条全卖光",
+          "hot": "20万",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%88%B0760%E5%85%83%E8%8F%9C%E7%99%BE%E9%87%91%E6%9D%A1%E5%85%A8%E5%8D%96%E5%85%89"
+        },
+        {
+          "rank": 12,
+          "title": "再见老板真的要来了",
+          "hot": "20万",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86"
+        },
+        {
+          "rank": 13,
+          "title": "suk到底预言了多少",
+          "hot": "20万",
+          "url": "https://s.weibo.com/weibo?q=suk%E5%88%B0%E5%BA%95%E9%A2%84%E8%A8%80%E4%BA%86%E5%A4%9A%E5%B0%91"
+        },
+        {
+          "rank": 14,
+          "title": "郭碧婷二胎后全身浮肿下半身失控",
+          "hot": "20万",
+          "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E7%A2%A7%E5%A9%B7%E4%BA%8C%E8%83%8E%E5%90%8E%E5%85%A8%E8%BA%AB%E6%B5%AE%E8%82%BF%E4%B8%8B%E5%8D%8A%E8%BA%AB%E5%A4%B1%E6%8E%A7"
+        },
+        {
+          "rank": 15,
+          "title": "再见老板嘉宾提名",
+          "hot": "19万",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E8%80%81%E6%9D%BF%E5%98%89%E5%AE%BE%E6%8F%90%E5%90%8D"
+        }
+      ],
+      "stale": false
+    },
+    {
+      "id": "baidu",
+      "name": "百度热搜",
+      "kind": "cn",
+      "items": [
+        {
+          "rank": 1,
+          "hot": "",
+          "url": "https://www.baidu.com/s?wd=undefined"
+        }
+      ],
+      "stale": false
+    },
+    {
+      "id": "zhihu",
+      "name": "知乎热榜",
+      "kind": "cn",
+      "items": [],
+      "stale": true,
+      "error": "HTTP 401"
+    },
+    {
+      "id": "bilibili",
+      "name": "B站热门",
+      "kind": "cn",
+      "items": [
+        {
+          "rank": 1,
+          "title": "多国领导人就一个中国原则明确表态",
+          "hot": "热度 1508724",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%B1%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81"
+        },
+        {
+          "rank": 2,
+          "title": "IVL秋季赛",
+          "hot": "热度 1377201",
+          "url": "https://search.bilibili.com/all?keyword=IVL%E7%A7%8B%E5%AD%A3%E8%B5%9B"
+        },
+        {
+          "rank": 3,
+          "title": "用AI连破千禧难题能拿菲奖吗",
+          "hot": "热度 1107439",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E8%BF%9E%E7%A0%B4%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98%E8%83%BD%E6%8B%BF%E8%8F%B2%E5%A5%96%E5%90%97"
+        },
+        {
+          "rank": 4,
+          "title": "GTA6的角色设定有哪些不足",
+          "hot": "热度 1071252",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E7%9A%84%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E8%B6%B3"
+        },
+        {
+          "rank": 5,
+          "title": "探秘复旦大学食堂吃什么",
+          "hot": "热度 1005340",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E7%A7%98%E5%A4%8D%E6%97%A6%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E5%90%83%E4%BB%80%E4%B9%88"
+        },
+        {
+          "rank": 6,
+          "title": "非凡之爱 只对财神有感觉",
+          "hot": "热度 994308",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%20%E5%8F%AA%E5%AF%B9%E8%B4%A2%E7%A5%9E%E6%9C%89%E6%84%9F%E8%A7%89"
+        },
+        {
+          "rank": 7,
+          "title": "后会友期第6期看点拉满",
+          "hot": "热度 946972",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC6%E6%9C%9F%E7%9C%8B%E7%82%B9%E6%8B%89%E6%BB%A1"
+        },
+        {
+          "rank": 8,
+          "title": "GTA6路人是如何暴富的",
+          "hot": "热度 839623",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%B7%AF%E4%BA%BA%E6%98%AF%E5%A6%82%E4%BD%95%E6%9A%B4%E5%AF%8C%E7%9A%84"
+        },
+        {
+          "rank": 9,
+          "title": "传统欧美3A游戏面临瓶颈了吗",
+          "hot": "热度 823292",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%A0%E7%BB%9F%E6%AC%A7%E7%BE%8E3A%E6%B8%B8%E6%88%8F%E9%9D%A2%E4%B8%B4%E7%93%B6%E9%A2%88%E4%BA%86%E5%90%97"
+        },
+        {
+          "rank": 10,
+          "title": "在GTA6用自行车绕地图一圈",
+          "hot": "热度 815243",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8GTA6%E7%94%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E7%BB%95%E5%9C%B0%E5%9B%BE%E4%B8%80%E5%9C%88"
+        },
+        {
+          "rank": 11,
+          "title": "用AI续写关谷悠悠婚礼",
+          "hot": "热度 815219",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E7%BB%AD%E5%86%99%E5%85%B3%E8%B0%B7%E6%82%A0%E6%82%A0%E5%A9%9A%E7%A4%BC"
+        },
+        {
+          "rank": 12,
+          "title": "GTA6里NPC的生活有多真实",
+          "hot": "热度 815160",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E9%87%8CNPC%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E"
+        },
+        {
+          "rank": 13,
+          "title": "donk首次打瓦实录",
+          "hot": "热度 815023",
+          "url": "https://search.bilibili.com/all?keyword=donk%E9%A6%96%E6%AC%A1%E6%89%93%E7%93%A6%E5%AE%9E%E5%BD%95"
+        },
+        {
+          "rank": 14,
+          "title": "章鱼哥版烂奇迹",
+          "hot": "热度 814592",
+          "url": "https://search.bilibili.com/all?keyword=%E7%AB%A0%E9%B1%BC%E5%93%A5%E7%89%88%E7%83%82%E5%A5%87%E8%BF%B9"
+        },
+        {
+          "rank": 15,
+          "title": "人民大会堂吃一顿多少钱",
+          "hot": "热度 812894",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%90%83%E4%B8%80%E9%A1%BF%E5%A4%9A%E5%B0%91%E9%92%B1"
+        }
+      ],
+      "stale": false
+    },
+    {
+      "id": "toutiao",
+      "name": "今日头条",
+      "kind": "cn",
+      "items": [
+        {
+          "rank": 1,
+          "title": "主播私闯果园糟蹋千斤苹果仅愿赔6千元",
+          "hot": "3158859",
+          "url": "https://www.toutiao.com/trending/7710858139138556425/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710858139138556425%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%BB%E6%92%AD%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E5%8D%83%E6%96%A4%E8%8B%B9%E6%9E%9C%E4%BB%85%E6%84%BF%E8%B5%946%E5%8D%83%E5%85%83%22%7D&rank=&style_id=40132&topic_id=7710858139138556425"
+        },
+        {
+          "rank": 2,
+          "title": "沪深北交易所调整融资保证金比例",
+          "hot": "2858254",
+          "url": "https://www.toutiao.com/trending/7710942711183838761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710942711183838761%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%AA%E6%B7%B1%E5%8C%97%E4%BA%A4%E6%98%93%E6%89%80%E8%B0%83%E6%95%B4%E8%9E%8D%E8%B5%84%E4%BF%9D%E8%AF%81%E9%87%91%E6%AF%94%E4%BE%8B%22%7D&rank=&style_id=40132&topic_id=7710942711183838761"
+        },
+        {
+          "rank": 3,
+          "title": "“数”看中国经济韧性与活力",
+          "hot": "2586255",
+          "url": "https://www.toutiao.com/article/7710740467452805641"
+        },
+        {
+          "rank": 4,
+          "title": "菲律宾8名警察绑架中国女富商",
+          "hot": "2340140",
+          "url": "https://www.toutiao.com/trending/7710854854966084146/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710854854966084146%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8F%B2%E5%BE%8B%E5%AE%BE8%E5%90%8D%E8%AD%A6%E5%AF%9F%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%8C%E5%95%86%22%7D&rank=&style_id=40132&topic_id=7710854854966084146"
+        },
+        {
+          "rank": 5,
+          "title": "日媒逐帧解析特朗普无视高市",
+          "hot": "2117446",
+          "url": "https://www.toutiao.com/trending/7709848449667661843/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227709848449667661843%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E5%AA%92%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7709848449667661843"
+        },
+        {
+          "rank": 6,
+          "title": "7.2万拍下挡泥板票 女子不停夸张雪",
+          "hot": "1915945",
+          "url": "https://www.toutiao.com/trending/7710917820703605274/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710917820703605274%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%227.2%E4%B8%87%E6%8B%8D%E4%B8%8B%E6%8C%A1%E6%B3%A5%E6%9D%BF%E7%A5%A8+%E5%A5%B3%E5%AD%90%E4%B8%8D%E5%81%9C%E5%A4%B8%E5%BC%A0%E9%9B%AA%22%7D&rank=&style_id=40132&topic_id=7710917820703605274"
+        },
+        {
+          "rank": 7,
+          "title": "韦东奕再获奖",
+          "hot": "1733618",
+          "url": "https://www.toutiao.com/trending/7710125941796078089/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710125941796078089%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9F%A6%E4%B8%9C%E5%A5%95%E5%86%8D%E8%8E%B7%E5%A5%96%22%7D&rank=&style_id=40132&topic_id=7710125941796078089"
+        },
+        {
+          "rank": 8,
+          "title": "特朗普连发30多张照片回味APEC",
+          "hot": "1568643",
+          "url": "https://www.toutiao.com/trending/7710201794621849641/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710201794621849641%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E5%9B%9E%E5%91%B3APEC%22%7D&rank=&style_id=40132&topic_id=7710201794621849641"
+        },
+        {
+          "rank": 9,
+          "title": "俄导弹击中前方建筑乌司机急倒车逃生",
+          "hot": "1419367",
+          "url": "https://www.toutiao.com/trending/7710864703668453914/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710864703668453914%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E5%89%8D%E6%96%B9%E5%BB%BA%E7%AD%91%E4%B9%8C%E5%8F%B8%E6%9C%BA%E6%80%A5%E5%80%92%E8%BD%A6%E9%80%83%E7%94%9F%22%7D&rank=&style_id=40132&topic_id=7710864703668453914"
+        },
+        {
+          "rank": 10,
+          "title": "交易所打出稳市“组合拳”",
+          "hot": "1284296",
+          "url": "https://www.toutiao.com/trending/7710944285176106547/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710944285176106547%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%A4%E6%98%93%E6%89%80%E6%89%93%E5%87%BA%E7%A8%B3%E5%B8%82%E2%80%9C%E7%BB%84%E5%90%88%E6%8B%B3%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7710944285176106547"
+        },
+        {
+          "rank": 11,
+          "title": "“防非反诈”系列条漫",
+          "hot": "1162079",
+          "url": "https://www.toutiao.com/trending/7710847582251040810/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710847582251040810%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E9%98%B2%E9%9D%9E%E5%8F%8D%E8%AF%88%E2%80%9D%E7%B3%BB%E5%88%97%E6%9D%A1%E6%BC%AB%22%7D&rank=&style_id=40132&topic_id=7710847582251040810"
+        },
+        {
+          "rank": 12,
+          "title": "三亚凤凰机场等被暂停全军采购资格",
+          "hot": "1051492",
+          "url": "https://www.toutiao.com/trending/7710911687452266035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710911687452266035%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E4%BA%9A%E5%87%A4%E5%87%B0%E6%9C%BA%E5%9C%BA%E7%AD%89%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC%22%7D&rank=&style_id=40132&topic_id=7710911687452266035"
+        },
+        {
+          "rank": 13,
+          "title": "新一轮大范围雨雪来袭",
+          "hot": "951430",
+          "url": "https://www.toutiao.com/trending/7710782896353493555/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710782896353493555%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E6%9D%A5%E8%A2%AD%22%7D&rank=&style_id=40132&topic_id=7710782896353493555"
+        },
+        {
+          "rank": 14,
+          "title": "金价坐过山车 黄金还能避险吗",
+          "hot": "860889",
+          "url": "https://www.toutiao.com/trending/7710927019290136114/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710927019290136114%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%87%91%E4%BB%B7%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6+%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E9%81%BF%E9%99%A9%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7710927019290136114"
+        },
+        {
+          "rank": 15,
+          "title": "57岁窦唯被曝四婚",
+          "hot": "778965",
+          "url": "https://www.toutiao.com/trending/7710634772250362395/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710634772250362395%22%2C%22hot_board_impr_id%22%3A%22202611221900198775D099C04B58A12DE4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2257%E5%B2%81%E7%AA%A6%E5%94%AF%E8%A2%AB%E6%9B%9D%E5%9B%9B%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7710634772250362395"
+        }
+      ],
+      "stale": false
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit 热帖",
+      "kind": "intl",
+      "items": [],
+      "stale": true,
+      "error": "fetch failed"
+    },
+    {
+      "id": "hn",
+      "name": "Hacker News",
+      "kind": "intl",
+      "items": [
+        {
+          "rank": 1,
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "hot": "▲2423",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+          "titleZh": ""
+        },
+        {
+          "rank": 2,
+          "title": "Lean verification of the Riemann Hypothesis",
+          "hot": "▲1046",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+          "titleZh": ""
+        },
+        {
+          "rank": 3,
+          "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+          "hot": "▲1033",
+          "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+          "titleZh": ""
+        },
+        {
+          "rank": 4,
+          "title": "Detonating a pile of lead azide",
+          "hot": "▲616",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "titleZh": ""
+        },
+        {
+          "rank": 5,
+          "title": "My monitor was cutting my download speed by 75%",
+          "hot": "▲592",
+          "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+          "titleZh": ""
+        },
+        {
+          "rank": 6,
+          "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+          "hot": "▲533",
+          "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+          "titleZh": ""
+        },
+        {
+          "rank": 7,
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "hot": "▲473",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "titleZh": ""
+        },
+        {
+          "rank": 8,
+          "title": "Getting the mind to steer the body to steer you",
+          "hot": "▲284",
+          "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+          "titleZh": ""
+        },
+        {
+          "rank": 9,
+          "title": "Sandwich Simulator",
+          "hot": "▲265",
+          "url": "https://stulle.app/",
+          "titleZh": ""
+        },
+        {
+          "rank": 10,
+          "title": "GnuPG Security Advisory for GPGME",
+          "hot": "▲255",
+          "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+          "titleZh": ""
+        },
+        {
+          "rank": 11,
+          "title": "LLMs can read and write executables byte by byte from a hex dump",
+          "hot": "▲250",
+          "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+          "titleZh": ""
+        },
+        {
+          "rank": 12,
+          "title": "Advice for the next 100 Rust GUIs",
+          "hot": "▲169",
+          "url": "https://linebender.org/blog/next-100-guis/",
+          "titleZh": ""
+        },
+        {
+          "rank": 13,
+          "title": "Data Processing Incidents on Inference Providers",
+          "hot": "▲157",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+          "titleZh": ""
+        },
+        {
+          "rank": 14,
+          "title": "PostgreSQL Extensions in Go",
+          "hot": "▲152",
+          "url": "https://jespino.github.io/gopgext/",
+          "titleZh": ""
+        },
+        {
+          "rank": 15,
+          "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+          "hot": "▲140",
+          "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "titleZh": ""
+        }
+      ],
+      "stale": false
+    },
+    {
+      "id": "gtrends",
+      "name": "谷歌趋势",
+      "kind": "intl",
+      "items": [],
+      "stale": true,
+      "error": "fetch failed"
+    }
+  ]
+}

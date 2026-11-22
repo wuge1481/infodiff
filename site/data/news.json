@@ -1,0 +1,1131 @@
+{
+  "updatedAt": "2026-11-22T11:04:03.489Z",
+  "categories": [
+    {
+      "id": "tech",
+      "name": "科技",
+      "icon": "🤖",
+      "subs": [
+        {
+          "id": "ai",
+          "name": "AI / 人工智能",
+          "items": [
+            {
+              "title": "Nature：糖尿病大鼠成功恢复正常血糖！用电刺激迷走神经控糖",
+              "summary": "用葡萄糖发电控制血糖。",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511904.html",
+              "publishedAt": "2026-11-22T06:21:47.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511870.html",
+              "publishedAt": "2026-11-22T06:03:54.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511855.html",
+              "publishedAt": "2026-11-21T14:14:09.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "中国计算，走出新的登峰之路",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511849.html",
+              "publishedAt": "2026-11-21T14:09:59.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511841.html",
+              "publishedAt": "2026-11-21T11:40:11.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "全网疯传！Grok一姐教你如何月提交3000个PR",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511830.html",
+              "publishedAt": "2026-11-21T11:34:18.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
+              "summary": "",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511791.html",
+              "publishedAt": "2026-11-21T11:24:29.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+              "summary": "还实现可变形物体操控全球首通",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511779.html",
+              "publishedAt": "2026-11-21T06:35:59.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+              "summary": "专为本地部署而生",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511570.html",
+              "publishedAt": "2026-11-21T06:32:31.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
+              "summary": "还透露了不少训练背后的秘诀",
+              "source": "量子位",
+              "url": "https://www.qbitai.com/2026/11/511757.html",
+              "publishedAt": "2026-11-21T06:30:55.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "The most misunderstood graph in AI just got a major update",
+              "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require ju…",
+              "source": "MIT 科技评论",
+              "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+              "publishedAt": "2026-11-20T18:15:15.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Download: inside the quest to make our minds immortal",
+              "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What we learned when our Roundtables explored the quest to make minds immortal To …",
+              "source": "MIT 科技评论",
+              "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
+              "publishedAt": "2026-11-20T13:10:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        },
+        {
+          "id": "cs",
+          "name": "计算机 / 互联网 / 软件",
+          "items": [
+            {
+              "title": "财务团队的 AI 蓝图",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/video/UUqekkOQ8haEXZ792UjU?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T17:54:58.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "打造 AI 优先的销售与营销运营体系",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/video/mihBFvImttvJlSFUqC49?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T17:41:49.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "智能体企业新前沿：驱动高效智能",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/video/Ly5HbhY4pNMCF04abkFo?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T17:38:28.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "Pinterest 联合英特尔将开源性能分析推向互联网级规模",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/article/fs4IuBTjwIwR1xUgdjqt?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T11:00:00.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T10:00:00.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "亚马逊云科技推出 TorchNeuron，可以直接在 AWS Trainium 上运行 PyTorch 模型，无需任何修改",
+              "summary": "点击查看原文>",
+              "source": "InfoQ 中文",
+              "url": "https://www.infoq.cn/article/XhtWUmaolJECUhPX2jzY?utm_source=rss&utm_medium=article",
+              "publishedAt": "2026-11-22T10:00:00.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+              "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 139 # Comments: 158",
+              "source": "Hacker News",
+              "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+              "publishedAt": "2026-11-22T08:57:34.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Notes on the discrete Fourier transform (DFT)",
+              "summary": "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 31 # Comments: 4",
+              "source": "Hacker News",
+              "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+              "publishedAt": "2026-11-22T06:52:25.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Show HN: The Riemann Proof Handbook",
+              "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 51 # Comments: 19",
+              "source": "Hacker News",
+              "url": "https://github.com/tamnd/riemann-handbook",
+              "publishedAt": "2026-11-22T05:46:30.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+              "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 35 # Comments: 24",
+              "source": "Hacker News",
+              "url": "https://github.com/EL4CTEO/fast-anything",
+              "publishedAt": "2026-11-22T04:10:09.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+              "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 527 # Comments: 311",
+              "source": "Hacker News",
+              "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+              "publishedAt": "2026-11-22T04:04:56.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Data Processing Incidents on Inference Providers",
+              "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 156 # Comments: 61",
+              "source": "Hacker News",
+              "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+              "publishedAt": "2026-11-22T02:14:14.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        },
+        {
+          "id": "bio",
+          "name": "生物 / 生命科学",
+          "items": [
+            {
+              "title": "A 50-year-old theory about evolution may have been wrong all along",
+              "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential g…",
+              "source": "ScienceDaily·生物",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+              "publishedAt": "2026-11-21T14:06:15.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Scientists say the human family tree may need a radical rewrite",
+              "summary": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus shou…",
+              "source": "ScienceDaily·生物",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+              "publishedAt": "2026-11-21T13:44:55.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03803-8",
+              "publishedAt": "2026-11-21T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "A 3-million-year-old child just made human evolution far more complicated",
+              "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary f…",
+              "source": "ScienceDaily·生物",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+              "publishedAt": "2026-11-20T03:17:52.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "How AI is affecting science careers",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03680-1",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Lifting weights reduces muscle loss from obesity drugs",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03751-3",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Briefing Chat: Voyager 1 is now one ‘light day’ from Earth — setting a cosmic record",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03806-5",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Fraud helps little fire ants to survive and conquer",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03776-8",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "‘I had felt overconfident’: senior scientists reveal mistakes that aided discovery",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03590-2",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "‘Incredibly frustrating’: prestigious fellowship applications close in just 21 hours",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03805-6",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Net zero emissions won’t reverse climate change — some nations look to ‘net negative’",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03789-3",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Mathematicians astounded by AI and human-written proofs of iconic Riemann hypothesis",
+              "summary": "",
+              "source": "Nature",
+              "url": "https://www.nature.com/articles/d41586-026-03812-7",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        },
+        {
+          "id": "chem",
+          "name": "化学 / 材料",
+          "items": [
+            {
+              "title": "Isolable crystalline oxoboranes",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02310-7",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Sorting reaction pathways to program alkene skeletons",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02306-3",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Globally antiaromatic anthracene–porphyrin nanobelts",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02302-7",
+              "publishedAt": "2026-11-20T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Gaining the upper hand",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02326-z",
+              "publishedAt": "2026-11-19T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "A bowl-shaped nanocarbon incorporating an aromatic cyclopentadienide ring",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02293-5",
+              "publishedAt": "2026-11-16T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Discovery and development of antimicrobial polymers",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02280-w",
+              "publishedAt": "2026-11-12T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Retraction Note: Real-time monitoring of reaction stereochemistry through single-molecule observations of chirality-induced spin selectivity",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02320-5",
+              "publishedAt": "2026-11-11T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Conformationally driven negative chemotaxis in synthetic vesicles",
+              "summary": "",
+              "source": "Nature Chemistry",
+              "url": "https://www.nature.com/articles/s41557-026-02298-0",
+              "publishedAt": "2026-11-11T00:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        },
+        {
+          "id": "pharma",
+          "name": "药物 / 药理 / 医疗",
+          "items": [
+            {
+              "title": "Opinion: When should medical school start?",
+              "summary": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/21/stat-letters-to-editor-medical-school-pediatric-emergency-care/?utm_campaign=rss",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Opinion: How Kennedy and MAHA could help stop measles",
+              "summary": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/21/rfk-jr-maha-measles-outbreak-elimination-status-promote-mmr-vaccine/?utm_campaign=rss",
+              "publishedAt": "2026-11-21T09:30:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: FDA rejects Capricor Therapeutics’ Duchenne therapy, a decision that was a long time coming",
+              "summary": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T23:43:53.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "ICE detention of Princeton scientist rattles academia",
+              "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T21:19:27.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+              "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T20:26:10.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+              "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T19:04:04.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: Up and down the ladder: The latest comings and goings",
+              "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T15:52:19.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+              "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T14:16:35.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
+              "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T14:01:41.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Researchers explore possibility of a CTE blood test",
+              "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T13:53:10.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+              "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T09:30:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+              "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection.",
+              "source": "STAT 健康",
+              "url": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+              "publishedAt": "2026-11-20T09:30:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science",
+      "name": "实证 / 科学",
+      "icon": "🔬",
+      "subs": [
+        {
+          "id": "research",
+          "name": "研究 / 数据 / 核查",
+          "items": [
+            {
+              "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+              "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers ho…",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+              "publishedAt": "2026-11-21T15:09:46.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+              "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space …",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+              "publishedAt": "2026-11-21T14:53:40.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+              "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was…",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+              "publishedAt": "2026-11-21T14:25:39.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "A 50-year-old theory about evolution may have been wrong all along",
+              "summary": "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow. An extensive new analysis of mutations in bacteria and yeast found no evidence that essential g…",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+              "publishedAt": "2026-11-21T14:06:15.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Even scientists can't agree on what science actually is",
+              "summary": "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public. The findings could help explain public frustration with scientific un…",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+              "publishedAt": "2026-11-21T13:55:11.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Scientists say the human family tree may need a radical rewrite",
+              "summary": "The human family tree may need a major overhaul. New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus shou…",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+              "publishedAt": "2026-11-21T13:44:55.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Astronomer Isabel Angelo hunts for odd signals in telescope data",
+              "summary": "At the SETI Institute, she uses machine learning to look for signs of cosmic phenomena astronomers have never seen before.",
+              "source": "Science News",
+              "url": "https://www.sciencenews.org/article/telescope-data-isabel-angelo-sn-10",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "This scientist proves which problems computers can’t solve quickly",
+              "summary": "Dor Minzer studies how fast computers can tell whether nearly all of a game’s rules can be satisfied or almost none can.",
+              "source": "Science News",
+              "url": "https://www.sciencenews.org/article/game-computer-sn-10-dor-minzer-problem",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "What helps land recover after fire? This ecologist looks to the past",
+              "summary": "Ecologist Jennifer Grenz draws on Indigenous oral histories and ecological records to learn how landscapes recover after wildfires.",
+              "source": "Science News",
+              "url": "https://www.sciencenews.org/article/land-fire-jennifer-grenz-history-sn10",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "How do scientists learn from failure? This researcher has clues",
+              "summary": "Yian Yin found that scientists who revised rejected proposals using feedback found success faster than those who switched ideas.",
+              "source": "Science News",
+              "url": "https://www.sciencenews.org/article/scientists-learn-failure-sn-10-yian-yin",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "How do tumors talk to nerves? This scientist is finding out",
+              "summary": "After finding proteins linked to memory in prostate cancer cells, Sebnem Ece Eksi hopes to map nerve fibers in tumors.",
+              "source": "Science News",
+              "url": "https://www.sciencenews.org/article/tumors-talk-nerve-sn-10-sebnem-ece-eksi",
+              "publishedAt": "2026-11-21T12:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+              "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument …",
+              "source": "ScienceDaily 头条",
+              "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+              "publishedAt": "2026-11-21T02:11:14.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "military",
+      "name": "战争 / 军事",
+      "icon": "🛰️",
+      "subs": [
+        {
+          "id": "war",
+          "name": "国际冲突 / 地缘 / 国防",
+          "items": [
+            {
+              "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+              "summary": "The agreement was among the major achievements of Trump's trip to Asia, Treasury Secretary Scott Bessent said.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/global/asia-pacific/2026/11/20/trump-xi-agreed-that-military-ai-decisions-should-involve-humans-bessent-says/",
+              "publishedAt": "2026-11-20T17:54:27.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
+              "summary": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Germany’s military procurement office said.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
+              "publishedAt": "2026-11-20T16:55:38.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
+              "summary": "The nation of 18 million punches above its weight in several key defense technology areas.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030/",
+              "publishedAt": "2026-11-20T11:56:51.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "US missile shortages create a range problem, report shows",
+              "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
+              "publishedAt": "2026-11-19T21:23:13.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Denmark ratifies Trump deal over Greenland, hoping to end conflict",
+              "summary": "Denmark's parliament unanimously ratified a security agreement with the United States on Greenland on Thursday, hoping to end a standoff over the Arctic island's future.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict/",
+              "publishedAt": "2026-11-19T20:57:05.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
+              "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+              "publishedAt": "2026-11-19T19:57:54.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+              "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+              "publishedAt": "2026-11-19T18:59:12.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "France and Sweden hold first joint nuclear-deterrence exercise",
+              "summary": "The exercise didn’t involve actual nuclear weapons and was not directed at any country, the defense ministries said.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
+              "publishedAt": "2026-11-19T18:24:10.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "F-35C completes first launch and recovery trials on a Ford-class carrier",
+              "summary": "Two Navy F-35C Lightning II fighters have completed the jet’s first round of launch and recovery testing aboard the future USS John F. Kennedy.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/air/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
+              "publishedAt": "2026-11-19T17:38:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Hegseth, in Caracas, announces US-Venezuela military partnership agreement",
+              "summary": "U.S. Defense Secretary Pete Hegseth announced a new agreement on military cooperation with Venezuela in his first visit to the country since U.S. special forces deposed President Nicolas Maduro in a January raid.",
+              "source": "Defense News",
+              "url": "https://www.defensenews.com/pentagon/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+              "publishedAt": "2026-11-19T17:03:28.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "name": "电竞 / 游戏",
+      "icon": "🎮",
+      "subs": [
+        {
+          "id": "esports",
+          "name": "赛事 / 新游 / 行业",
+          "items": [
+            {
+              "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+              "summary": "Physical copies of Donkey Kong Bananza have received a $20 discount in Nintendo's Black Friday sale, bringing its price down to $49.99.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
+              "publishedAt": "2026-11-22T09:51:05.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Nintendo Switch 2 Gets First-Ever Official Black Friday Discount, Dropping Mario Kart World Bundle to $499",
+              "summary": "Nintendo's first official Switch 2 Black Friday deal is live for a limited time, bundling a flagship game and free bonus perks while undoing September's price hike.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle",
+              "publishedAt": "2026-11-22T09:31:35.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Nintendo's 2026 Black Friday Sale is Officially Live",
+              "summary": "Nintendo's official Black Friday sale is now live and includes a rare Switch 2 bundle discount, up to 50% off Switch 2 games, MicroSD Express cards, and more. Here's where to find all the top discounts to ensure you're s…",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/nintendo-black-friday-sale-is-officially-live-2026",
+              "publishedAt": "2026-11-22T08:15:18.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+              "summary": "",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+              "publishedAt": "2026-11-22T07:23:48.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+              "summary": "",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+              "publishedAt": "2026-11-22T05:08:36.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+              "summary": "The Binding of Isaac developer Nicalis has removed undisclosed AI-generated music included in Repentance+ after backlash led to a review-bombing campaign on Steam and a response from the game's creator, Edmund McMillen.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/the-binding-of-isaac-dev-removes-undisclosed-ai-generated-music-from-repentance-following-creator-response-review-bombing",
+              "publishedAt": "2026-11-21T23:42:05.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Ecovacs Deebot T90 Pro Omni Robot Vacuum Delivers Incredible 30,000Pa Suction and More High-End Features for $549 During Black Friday",
+              "summary": "Give the gift of clean floors with this innovative robot vacuum.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/the-ecovacs-deebot-t90-pro-omni-robot-vacuum-delivers-incredible-30000pa-suction-and-more-high-end-features-for-549-during-black-friday",
+              "publishedAt": "2026-11-21T22:05:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
+              "summary": "",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/best-deals-for-november-21-2026",
+              "publishedAt": "2026-11-21T21:38:09.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "GTA 6 Players Report Crashes on PS5 With Error CE-108255-1",
+              "summary": "GTA 6 players on PlayStation 5 have reported frequent crashes tied to error code CE-108255-1, and it looks like it's blocking them from progressing through the story while they wait for Sony and Rockstar to send out a fi…",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/gta-6-players-report-crashes-on-ps5-with-error-ce-108255-1",
+              "publishedAt": "2026-11-21T21:36:26.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Avengers: Doomsday Star Hayley Atwell Teases New Trailer for Monday",
+              "summary": "Avengers: Doomsday star and Captain Carter actor Hayley Atwell appears to have let it slip that a new Avengers: Doomsday trailer is set to premiere Monday.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/avengers-doomsday-star-hayley-atwell-teases-new-trailer-for-monday",
+              "publishedAt": "2026-11-21T20:29:10.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Digital Nintendo Switch and Switch 2 Games Are on Sale for Black Friday",
+              "summary": "",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/digital-nintendo-switch-and-switch-2-games-are-on-sale-for-black-friday",
+              "publishedAt": "2026-11-21T18:59:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Neuralink Participant Showcases What It's Like to Play GTA 6 With His Mind",
+              "summary": "A Neuralink participant has shared a video showcasing how the technology has allowed him to drive boats, fly planes, and get in shootouts in GTA 6 with his mind.",
+              "source": "IGN",
+              "url": "https://www.ign.com/articles/neuralink-participant-showcases-what-its-like-to-play-gta-6-with-his-mind",
+              "publishedAt": "2026-11-21T18:43:23.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "icon": "📱",
+      "subs": [
+        {
+          "id": "hardware",
+          "name": "手机 / 电脑 / 硬件",
+          "items": [
+            {
+              "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+              "summary": "AI 恐怖如斯 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "source": "爱范儿",
+              "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "publishedAt": "2026-11-22T01:35:14.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+              "summary": "我都遵纪守法了，还能叫 GTA 吗？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+              "source": "爱范儿",
+              "url": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
+              "publishedAt": "2026-11-22T01:34:09.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "从深圳到上海，少数派的共创故事还在继续",
+              "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ... 查看全文",
+              "source": "少数派",
+              "url": "https://sspai.com/post/119318",
+              "publishedAt": "2026-11-22T01:05:44.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "Amazon is complaining about NYC Council on shipping labels, too",
+              "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Ama…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+              "publishedAt": "2026-11-21T21:59:31.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The UN fails to agree on rules regulating ‘killer robots’",
+              "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+              "publishedAt": "2026-11-21T20:03:37.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The FBI and USDA were reportedly hacked",
+              "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this ti…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+              "publishedAt": "2026-11-21T17:42:27.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+              "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, …",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+              "publishedAt": "2026-11-21T16:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
+              "summary": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $11…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
+              "publishedAt": "2026-11-21T16:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Can Anthropic afford to put safety first?",
+              "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+              "publishedAt": "2026-11-21T15:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+              "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, whic…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+              "publishedAt": "2026-11-21T14:55:28.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+              "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, …",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+              "publishedAt": "2026-11-21T14:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
+              "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+              "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+              "publishedAt": "2026-11-21T13:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "财经 / 宏观",
+      "icon": "📈",
+      "subs": [
+        {
+          "id": "macro",
+          "name": "宏观 / 市场",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "society",
+      "name": "社会 / 民生",
+      "icon": "🏙️",
+      "subs": [
+        {
+          "id": "people",
+          "name": "民生 / 热点",
+          "items": []
+        }
+      ]
+    },
+    {
+      "id": "politics",
+      "name": "时政",
+      "icon": "🏛️",
+      "subs": [
+        {
+          "id": "current",
+          "name": "时政 / 要闻",
+          "items": []
+        }
+      ]
+    }
+  ]
+}

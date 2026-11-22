@@ -1,0 +1,200 @@
+:root {
+  --bg: #f5f7fb;
+  --bg-soft: #ffffff;
+  --bg-raised: #ffffff;
+  --card: #ffffff;
+  --border: #e5e9f0;
+  --text: #1f2937;
+  --text-soft: #6b7280;
+  --text-faint: #9ca3af;
+  --accent: #2563eb;
+  --accent-soft: #eff6ff;
+  --rank: #2563eb;
+  --shadow: 0 1px 2px rgba(16, 24, 40, .06), 0 1px 3px rgba(16, 24, 40, .08);
+  --shadow-lg: 0 8px 24px rgba(16, 24, 40, .12);
+  --radius: 14px;
+  --chip-bg: #eef1f6;
+  --chip-active: #1f2937;
+  --chip-active-text: #ffffff;
+  --tag-bg: #eff6ff;
+  --tag-text: #2563eb;
+  --mt-badge: #f59e0b;
+  --mt-badge-bg: #fffbeb;
+}
+html[data-theme="dark"] {
+  --bg: #0b1020;
+  --bg-soft: #111827;
+  --bg-raised: #151d2f;
+  --card: #151d2f;
+  --border: #243049;
+  --text: #e5e7eb;
+  --text-soft: #9aa4b8;
+  --text-faint: #6b7488;
+  --accent: #60a5fa;
+  --accent-soft: #12223c;
+  --rank: #60a5fa;
+  --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+  --shadow-lg: 0 10px 30px rgba(0, 0, 0, .5);
+  --chip-bg: #1c2639;
+  --chip-active: #e5e7eb;
+  --chip-active-text: #0b1020;
+  --tag-bg: #12223c;
+  --tag-text: #93c5fd;
+  --mt-badge: #fbbf24;
+  --mt-badge-bg: #2a2310;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+}
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: none; }
+
+/* ---- 顶栏 ---- */
+.topbar {
+  position: sticky; top: 0; z-index: 50;
+  background: color-mix(in srgb, var(--bg) 82%, transparent);
+  backdrop-filter: saturate(1.4) blur(12px);
+  -webkit-backdrop-filter: saturate(1.4) blur(12px);
+  border-bottom: 1px solid var(--border);
+}
+.topbar-inner {
+  max-width: 1080px; margin: 0 auto;
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px; padding: 12px 16px 8px;
+  flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 10px; }
+.brand-logo { font-size: 26px; line-height: 1; }
+.brand-text h1 { margin: 0; font-size: 17px; letter-spacing: .2px; }
+.updated { margin: 0; font-size: 11px; color: var(--text-faint); }
+.topbar-actions { display: flex; align-items: center; gap: 8px; }
+.search {
+  width: 180px; max-width: 46vw;
+  padding: 8px 12px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--bg-soft); color: var(--text);
+  font-size: 13px; outline: none; transition: border-color .15s;
+}
+.search:focus { border-color: var(--accent); }
+.icon-btn {
+  width: 36px; height: 36px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg-soft);
+  cursor: pointer; font-size: 16px; display: grid; place-items: center;
+}
+
+/* ---- 导航 ---- */
+.nav {
+  max-width: 1080px; margin: 0 auto;
+  display: flex; gap: 8px; padding: 0 16px 10px;
+  overflow-x: auto; scrollbar-width: none;
+}
+.nav::-webkit-scrollbar { display: none; }
+.nav-btn {
+  flex: 0 0 auto; padding: 7px 14px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--chip-bg); color: var(--text-soft);
+  cursor: pointer; font-size: 13px; white-space: nowrap; transition: all .15s;
+}
+.nav-btn:hover { border-color: var(--accent); color: var(--accent); }
+.nav-btn.active { background: var(--chip-active); color: var(--chip-active-text); border-color: var(--chip-active); }
+
+/* ---- 主体 ---- */
+.main { max-width: 1080px; margin: 0 auto; padding: 16px; min-height: 70vh; }
+.loading { padding: 60px 0; text-align: center; color: var(--text-soft); font-size: 14px; }
+
+.section { margin-bottom: 28px; }
+.section-head {
+  display: flex; align-items: center; gap: 8px;
+  margin: 18px 0 12px; font-size: 18px; font-weight: 700;
+}
+.section-head .icon { font-size: 20px; }
+.section-head .count { font-size: 12px; color: var(--text-faint); font-weight: 500; margin-left: auto; }
+
+.sub-chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 0 0 14px; }
+.chip {
+  padding: 5px 12px; border-radius: 999px; font-size: 12.5px; cursor: pointer;
+  background: var(--chip-bg); color: var(--text-soft); border: 1px solid transparent;
+  transition: all .15s; user-select: none;
+}
+.chip.active { background: var(--chip-active); color: var(--chip-active-text); }
+
+.sub-block { margin-bottom: 18px; }
+.sub-title { font-size: 14px; font-weight: 600; color: var(--text-soft); margin: 14px 0 8px; display: flex; align-items: center; gap: 6px; }
+.stale-badge { font-size: 10px; color: var(--mt-badge); background: var(--mt-badge-bg); padding: 1px 6px; border-radius: 6px; font-weight: 500; }
+
+/* ---- 新闻卡片 ---- */
+.card {
+  display: block; background: var(--card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 13px 15px; margin-bottom: 10px;
+  box-shadow: var(--shadow); transition: transform .12s, box-shadow .12s, border-color .12s;
+}
+.card:hover { transform: translateY(-1px); box-shadow: var(--shadow-lg); border-color: var(--accent); }
+.card-title { font-size: 15px; font-weight: 600; margin: 0 0 3px; display: flex; align-items: baseline; gap: 6px; flex-wrap: wrap; }
+.card-title .zh { display: block; }
+.card-title .orig { display: block; font-size: 12px; color: var(--text-faint); font-weight: 400; }
+.card-summary { font-size: 13px; color: var(--text-soft); margin: 4px 0 8px; }
+.card-meta { display: flex; align-items: center; gap: 8px; font-size: 12px; color: var(--text-faint); flex-wrap: wrap; }
+.source-tag { background: var(--tag-bg); color: var(--tag-text); padding: 1px 8px; border-radius: 6px; font-size: 11px; font-weight: 500; }
+.mt-badge { color: var(--mt-badge); background: var(--mt-badge-bg); padding: 1px 6px; border-radius: 6px; font-size: 10px; font-weight: 600; }
+.arrow { margin-left: auto; color: var(--text-faint); font-size: 13px; }
+
+/* ---- 天气 ---- */
+.weather-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.weather-card {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 16px; box-shadow: var(--shadow);
+}
+.weather-top { display: flex; align-items: center; gap: 14px; }
+.weather-now { display: flex; align-items: center; gap: 12px; }
+.weather-icon { font-size: 44px; }
+.weather-temp { font-size: 40px; font-weight: 700; line-height: 1; }
+.weather-desc { font-size: 13px; color: var(--text-soft); }
+.weather-detail { margin-left: auto; font-size: 12px; color: var(--text-faint); text-align: right; line-height: 1.7; }
+.weather-days { display: flex; gap: 6px; margin-top: 14px; overflow-x: auto; padding-bottom: 2px; }
+.wday {
+  flex: 1 0 44px; text-align: center; padding: 8px 2px; border-radius: 10px;
+  background: var(--bg-soft); font-size: 11px; color: var(--text-soft);
+}
+.wday .d-ico { font-size: 18px; display: block; }
+.wday .d-hi { font-weight: 600; color: var(--text); }
+.wday .d-lo { color: var(--text-faint); }
+
+/* ---- 热搜 ---- */
+.hot-tabs { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+.hot-list { list-style: none; margin: 0; padding: 0; }
+.hot-item {
+  display: flex; align-items: center; gap: 12px; padding: 10px 12px;
+  border-bottom: 1px solid var(--border); font-size: 14px;
+}
+.hot-item:last-child { border-bottom: none; }
+.hot-rank {
+  flex: 0 0 26px; height: 22px; display: grid; place-items: center;
+  border-radius: 7px; font-size: 12px; font-weight: 700;
+  background: var(--accent-soft); color: var(--rank);
+}
+.hot-rank.top { background: var(--accent); color: #fff; }
+.hot-title { flex: 1; min-width: 0; }
+.hot-title a { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hot-title .zh { font-weight: 500; }
+.hot-title .orig { font-size: 11px; color: var(--text-faint); display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hot-val { flex: 0 0 auto; font-size: 12px; color: var(--text-faint); }
+
+.panel { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; }
+
+/* ---- 页脚 ---- */
+.footer { max-width: 1080px; margin: 30px auto; padding: 0 16px 30px; text-align: center; color: var(--text-faint); font-size: 12px; }
+
+.empty { padding: 40px; text-align: center; color: var(--text-faint); font-size: 13px; }
+
+@media (max-width: 560px) {
+  .brand-text h1 { font-size: 15px; }
+  .search { width: 130px; }
+  .card-title { font-size: 14px; }
+  .weather-temp { font-size: 32px; }
+}
