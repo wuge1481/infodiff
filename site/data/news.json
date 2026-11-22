@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T11:04:03.489Z",
+  "updatedAt": "2026-11-22T11:32:35.254Z",
   "categories": [
     {
       "id": "tech",
@@ -181,8 +181,18 @@
               "machineTranslated": false
             },
             {
+              "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+              "summary": "Article URL: https://arxiv.org/abs/2606.14068 Comments URL: https://news.ycombinator.com/item?id=50597743 Points: 3 # Comments: 0",
+              "source": "Hacker News",
+              "url": "https://arxiv.org/abs/2606.14068",
+              "publishedAt": "2026-11-22T09:18:36.000Z",
+              "lang": "en",
+              "machineTranslated": false,
+              "titleZh": ""
+            },
+            {
               "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-              "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 139 # Comments: 158",
+              "summary": "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 149 # Comments: 183",
               "source": "Hacker News",
               "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
               "publishedAt": "2026-11-22T08:57:34.000Z",
@@ -202,7 +212,7 @@
             },
             {
               "title": "Show HN: The Riemann Proof Handbook",
-              "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 51 # Comments: 19",
+              "summary": "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 54 # Comments: 19",
               "source": "Hacker News",
               "url": "https://github.com/tamnd/riemann-handbook",
               "publishedAt": "2026-11-22T05:46:30.000Z",
@@ -212,7 +222,7 @@
             },
             {
               "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-              "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 35 # Comments: 24",
+              "summary": "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 39 # Comments: 24",
               "source": "Hacker News",
               "url": "https://github.com/EL4CTEO/fast-anything",
               "publishedAt": "2026-11-22T04:10:09.000Z",
@@ -222,20 +232,10 @@
             },
             {
               "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-              "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 527 # Comments: 311",
+              "summary": "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 538 # Comments: 329",
               "source": "Hacker News",
               "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
               "publishedAt": "2026-11-22T04:04:56.000Z",
-              "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
-            },
-            {
-              "title": "Data Processing Incidents on Inference Providers",
-              "summary": "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 156 # Comments: 61",
-              "source": "Hacker News",
-              "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-              "publishedAt": "2026-11-22T02:14:14.000Z",
               "lang": "en",
               "machineTranslated": false,
               "titleZh": ""

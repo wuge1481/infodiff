@@ -19,7 +19,7 @@
           "icon": "🌦️",
           "tmax": 22,
           "tmin": 18,
-          "precipProb": 2
+          "precipProb": 4
         },
         {
           "date": "2026-11-23",
@@ -28,7 +28,7 @@
           "icon": "🌦️",
           "tmax": 25,
           "tmin": 22,
-          "precipProb": 27
+          "precipProb": 25
         },
         {
           "date": "2026-11-24",
@@ -37,7 +37,7 @@
           "icon": "🌧️",
           "tmax": 23,
           "tmin": 19,
-          "precipProb": 86
+          "precipProb": 90
         },
         {
           "date": "2026-11-25",
@@ -46,7 +46,7 @@
           "icon": "☁️",
           "tmax": 19,
           "tmin": 15,
-          "precipProb": 22
+          "precipProb": 18
         },
         {
           "date": "2026-11-26",
@@ -73,7 +73,7 @@
           "icon": "⛅",
           "tmax": 25,
           "tmin": 17,
-          "precipProb": 4
+          "precipProb": 0
         }
       ],
       "stale": false
@@ -97,7 +97,7 @@
           "icon": "☁️",
           "tmax": 23,
           "tmin": 18,
-          "precipProb": 2
+          "precipProb": 4
         },
         {
           "date": "2026-11-23",
@@ -106,7 +106,7 @@
           "icon": "🌦️",
           "tmax": 25,
           "tmin": 22,
-          "precipProb": 27
+          "precipProb": 25
         },
         {
           "date": "2026-11-24",
@@ -115,7 +115,7 @@
           "icon": "🌧️",
           "tmax": 23,
           "tmin": 19,
-          "precipProb": 86
+          "precipProb": 90
         },
         {
           "date": "2026-11-25",
@@ -124,7 +124,7 @@
           "icon": "☁️",
           "tmax": 19,
           "tmin": 15,
-          "precipProb": 22
+          "precipProb": 18
         },
         {
           "date": "2026-11-26",
@@ -151,11 +151,11 @@
           "icon": "☁️",
           "tmax": 25,
           "tmin": 17,
-          "precipProb": 4
+          "precipProb": 0
         }
       ],
       "stale": false
     }
   ],
-  "updatedAt": "2026-11-22T11:00:51.320Z"
+  "updatedAt": "2026-11-22T11:29:23.070Z"
 }
