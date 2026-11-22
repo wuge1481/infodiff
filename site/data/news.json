@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T13:55:46.811Z",
+  "updatedAt": "2026-11-22T14:03:06.498Z",
   "categories": [
     {
       "id": "tech",
@@ -10,6 +10,33 @@
           "id": "ai",
           "name": "AI / 人工智能",
           "items": [
+            {
+              "title": "杰富瑞下调韩国上调印度股市评级 AI占新兴市场指数权重约46% - 观点网",
+              "summary": "杰富瑞下调韩国上调印度股市评级 AI占新兴市场指数权重约46% 观点网",
+              "source": "谷歌新闻·AI",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53a3QwTHl6T01HZDZyZHgzMWR6VUN2ZDhoclFvdWYzTjR6WktnUTZTVUN6UndjVWtuYUNDZTNMcGdSZC1QYWhOVzJTUUxYMVVHTVVUMlBhaHlYZ1c0OGpUZWlB?oc=5",
+              "publishedAt": "2026-11-22T13:56:36.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "马斯克警告AI行业明年或面临严重资金短缺 - Sohu",
+              "summary": "马斯克警告AI行业明年或面临严重资金短缺 Sohu",
+              "source": "谷歌新闻·AI",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa21NbDFQdjZmMFlPZ3JHV0dlWVZKYk9rWmJUTWZnOEF0X3FWalVCLXhENVIzYWpwc3BLVUduRHEwLUFWM3VCWFZYVU5BTFhJWE9DdWdrcFhPa05aSnFteW5rY2lDYUtaNUFJY1FoYzNEQWpMWlpDQ29YSmxHa1hSeDVNSHNRSldFaF9MVg?oc=5",
+              "publishedAt": "2026-11-22T13:54:08.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "火山汽车AI座舱，掀桌子？还是做大蛋糕 - Sohu",
+              "summary": "火山汽车AI座舱，掀桌子？还是做大蛋糕 Sohu",
+              "source": "谷歌新闻·AI",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDc5ejg3eWsyc096a3o0bGtJTjdmY2R4cHI0azRLQ0lmZ2xaTldUemtEemprUklDdkwxSkZTZEtPNDgzYmc2ZkpfUnA3M1NRY3VJbVZYal9TbmczOHp6RkJKeHlWTzlFeGUxdGNsdjlhQTFibEduMkswWlpQV2NaTmhCWExEUF94TENKOA?oc=5",
+              "publishedAt": "2026-11-22T13:54:05.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
             {
               "title": "还得是易方达：资管巨头成立一家专门搞AI和技术的子公司 - Sohu",
               "summary": "还得是易方达：资管巨头成立一家专门搞AI和技术的子公司 Sohu",
@@ -90,33 +117,6 @@
               "publishedAt": "2026-11-22T12:59:40.000Z",
               "lang": "zh",
               "machineTranslated": false
-            },
-            {
-              "title": "12倍PE的行业AI：从中石化复购到行业测评第二，诺比侃被低估的价值空间 - Sohu",
-              "summary": "12倍PE的行业AI：从中石化复购到行业测评第二，诺比侃被低估的价值空间 Sohu",
-              "source": "谷歌新闻·AI",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnJnRF9TcjdOZGZyMVdvZU9obGp2YUM4QVJ1cmdHTldCbmtEX25tcmpfclFFU1BHRUF6N1h5eFhBN1BfWGtwWUwwLXVxYjUteDlmWUZ1WU1QclExcERjdTlJMEdvcjZPMDAzSGpHWG4zSUlQR1Zjek5sYmwwNzk1aFJpc3BhdWtQ?oc=5",
-              "publishedAt": "2026-11-22T12:58:07.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "期货周评：市场担忧美国云端AI前景，国际铜价跳水！美联储加息预期压制金价 - https://www.mrjjxw.com/",
-              "summary": "期货周评：市场担忧美国云端AI前景，国际铜价跳水！美联储加息预期压制金价 https://www.mrjjxw.com/",
-              "source": "谷歌新闻·AI",
-              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5QXV0S0E4X1RWSEhEQzFZQTNVTmxMdjA4X2JxLWlGVjFucVE3UC1UNXkteGUwLW93VThJdUE0VkNVODE5Tm55cmhnQTdyaWFOZ1ZwQVVOLVVweFlGTEJQLTZ3SHR6dw?oc=5",
-              "publishedAt": "2026-11-22T12:56:58.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "湘伴丨AI赋能这一领域，湖南如何抓住万亿产业新风口 - 华声在线",
-              "summary": "湘伴丨AI赋能这一领域，湖南如何抓住万亿产业新风口 华声在线",
-              "source": "谷歌新闻·AI",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44bE1CRXNrN05TdHB3M3NDbW1Vdk1tcENnckZLZURqWDNuZHhOazJlM3gzdW9WWkZmeEduclQ5UkQ4dUx4XzlOVWtldU5WYXc3eUd3djgwTzZrcGhJRVpj?oc=5",
-              "publishedAt": "2026-11-22T12:56:12.000Z",
-              "lang": "zh",
-              "machineTranslated": false
             }
           ]
         },
@@ -152,14 +152,24 @@
               "machineTranslated": false
             },
             {
+              "title": "Blackberry releases secure browser for Windows",
+              "summary": "Article URL: https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows Comments URL: https://news.ycombinator.com/item?id=50599667 Points: 4 # Comments: 0",
+              "source": "Hacker News",
+              "url": "https://www.blackberry.com/en/secure-communications/insights/blog/introducing-blackberry-access-secure-browser-windows",
+              "publishedAt": "2026-11-22T13:46:12.000Z",
+              "lang": "en",
+              "machineTranslated": true,
+              "titleZh": "黑莓推出适用于Windows的安全浏览器"
+            },
+            {
               "title": "Prisons get OK to jam contraband phones",
-              "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 7 # Comment…",
+              "summary": "Article URL: https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/ Comments URL: https://news.ycombinator.com/item?id=50599313 Points: 13 # Commen…",
               "source": "Hacker News",
               "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
               "publishedAt": "2026-11-22T13:00:52.000Z",
               "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
+              "machineTranslated": true,
+              "titleZh": "监狱获准干扰违禁手机信号"
             },
             {
               "title": "【12315投诉公示】消费者投诉金山软件其他投诉问题_曝光台_财经 - 证券之星",
@@ -223,15 +233,6 @@
               "publishedAt": "2026-11-22T10:04:35.000Z",
               "lang": "zh",
               "machineTranslated": false
-            },
-            {
-              "title": "智能体身份国际标准化：体系布局与研制实践｜AICon北京",
-              "summary": "点击查看原文>",
-              "source": "InfoQ 中文",
-              "url": "https://www.infoq.cn/article/721YPdyIZ1D8xz20D22C?utm_source=rss&utm_medium=article",
-              "publishedAt": "2026-11-22T10:00:00.000Z",
-              "lang": "zh",
-              "machineTranslated": false
             }
           ]
         },
@@ -239,6 +240,15 @@
           "id": "bio",
           "name": "生物 / 生命科学",
           "items": [
+            {
+              "title": "CHO细胞转染试剂市场展望2035：生物药管线与高性能配方驱动增长 - 新闻和统计 - IndexBox",
+              "summary": "CHO细胞转染试剂市场展望2035：生物药管线与高性能配方驱动增长 - 新闻和统计 IndexBox",
+              "source": "谷歌新闻·生物",
+              "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRWFQM2RneHRBV21RV1RMVmRVSlVyc3ZwZkJlZUJiMjlQWS1vVnpWYXczdmo1WkNtQXZ4TktEVmN4Zi1GTmpycU1rckc3N2VpQzNXbzR6M29lQnVtRjZUU2RSbDlJZnhqQXYzTFhKRDdKZ2hjX3pmUEZLTkowNmNJakZRUzBJeE9QTGNjQlBwOTVCczdLY0t6WGFvQVhzMzVXaEdOeDVJbHhSWTQ3aXJZZWR3TlpldTBFRWV4cWhMQ1BsM2hiNFZITWE1MFUxUXRRbWVBSV92bi1Pc2J2T2hCZEJwMzB5Y2FGMkNyYkVGRzlaNklPcXBMUG0xMmpZc1FH?oc=5",
+              "publishedAt": "2026-11-22T13:36:04.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
             {
               "title": "每体：伊拜-戈麦斯的赢家基因，赢球几乎成习惯 - 懂球帝",
               "summary": "每体：伊拜-戈麦斯的赢家基因，赢球几乎成习惯 懂球帝",
@@ -294,20 +304,20 @@
               "machineTranslated": false
             },
             {
+              "title": "益方生物(688382):益方生物独立董事提名人声明与承诺（秦东光） - 中财网",
+              "summary": "益方生物(688382):益方生物独立董事提名人声明与承诺（秦东光） 中财网",
+              "source": "谷歌新闻·生物",
+              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Mb0Y1RDRzQ243S2tDY2QwQkdONWlid0l6OUJ0UDUtR2psZzVlYWVOOVdXdnF2VTRGWW9kb3RKZ2UyMXF4alpZaGptOU54YmphVndGZVVn?oc=5",
+              "publishedAt": "2026-11-22T10:37:50.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "益方生物(688382):益方生物独立董事提名人声明与承诺（赵玉洁） - 中财网",
               "summary": "益方生物(688382):益方生物独立董事提名人声明与承诺（赵玉洁） 中财网",
               "source": "谷歌新闻·生物",
               "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56dUk1c2NWRm9ENXZWTXhBOC1lZlFKV0pXMFlWOVBzOW92MHV4UkY3aG5weUZIR01EN19zdEtvWVZVZnF0Znk0Mk1PXzdIQXppNUJ4Z0FB?oc=5",
               "publishedAt": "2026-11-22T10:37:49.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "益方生物(688382):益方生物独立董事提名人声明与承诺（张丰麒） - 中财网",
-              "summary": "益方生物(688382):益方生物独立董事提名人声明与承诺（张丰麒） 中财网",
-              "source": "谷歌新闻·生物",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FczdVTWJReVpXUTdtYVV1emtfWS00ZExQZ1l3RWt6UDNRcF9xYVRJZGNnLS03SllreXB5YWs4cUltcFhDNE9CNUhtRHhYRnlUWjh5aTFn?oc=5",
-              "publishedAt": "2026-11-22T10:37:47.000Z",
               "lang": "zh",
               "machineTranslated": false
             },
@@ -337,15 +347,6 @@
               "publishedAt": "2026-11-22T10:37:45.000Z",
               "lang": "zh",
               "machineTranslated": false
-            },
-            {
-              "title": "益方生物(688382):益方生物关于召开2026年第二次临时股东会的通知 - 中财网",
-              "summary": "益方生物(688382):益方生物关于召开2026年第二次临时股东会的通知 中财网",
-              "source": "谷歌新闻·生物",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81RTM1bC1CZzh2czREY0pYWWdNOURqQUgtdDdWdC1QQkRudm1DdWwyWENEdXV3OS1uUVROTjZvVmZIU1IySEFFNHJBQk5vYVBFQ3lIX2Vn?oc=5",
-              "publishedAt": "2026-11-22T10:37:44.000Z",
-              "lang": "zh",
-              "machineTranslated": false
             }
           ]
         },
@@ -353,6 +354,15 @@
           "id": "chem",
           "name": "化学 / 材料",
           "items": [
+            {
+              "title": "昆仑新能源材料通过港交所聆讯 上半年收入19.72亿元 - 观点网",
+              "summary": "昆仑新能源材料通过港交所聆讯 上半年收入19.72亿元 观点网",
+              "source": "谷歌新闻·化学",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90aEQyVGN0ZUlNWkthM3VUSk56WlNtSXpkak5HTk9SVWNVS3E4WEM0UmxvS293REJzTktBa0llcjZNVFpUakJfQ3JsWm1mbmE3d0pRdGZTUXRhM01HSUk3bUdn?oc=5",
+              "publishedAt": "2026-11-22T13:58:04.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
             {
               "title": "含氟聚合物市场展望2035：电子与化学加工推动需求加速增长 - 新闻和统计 - IndexBox",
               "summary": "含氟聚合物市场展望2035：电子与化学加工推动需求加速增长 - 新闻和统计 IndexBox",
@@ -449,15 +459,6 @@
               "source": "谷歌新闻·化学",
               "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ISHhxS1hCSDZ0blB4ajYzbkZPLThsejBNTGQwX2IyX24xYUIyaU1yM0pyWUFGbkxEUjg5UHB3TU12c0U3dUdSLVNreTNyazMxRGIyZXM2UHppeGtPSV9vbXF0ZnQ?oc=5",
               "publishedAt": "2026-11-22T09:13:00.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "美国电池产业终迎转机：Sila与松下签下超10亿美元协议 - 麻省理工科技评论",
-              "summary": "美国电池产业终迎转机：Sila与松下签下超10亿美元协议 麻省理工科技评论",
-              "source": "谷歌新闻·化学",
-              "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aTHdEUXB6Q1BnOEJsY2g1UmhONXBIZHlaVUVleFE0Wm5tdUY5QUFjR1lweFRpb2dYakRiRUEwTEZ1OEtjWG9zZGZLeHYzaXFFekJFbkZCTQ?oc=5",
-              "publishedAt": "2026-11-22T08:25:41.000Z",
               "lang": "zh",
               "machineTranslated": false
             }
@@ -831,6 +832,25 @@
           "name": "赛事 / 新游 / 行业",
           "items": [
             {
+              "title": "7 Most Unforgettable Battles in Fantasy Books, Ranked",
+              "summary": "Some fantasy battles stay with you forever, and these unforgettable clashes prove why.",
+              "source": "Polygon",
+              "url": "https://www.polygon.com/greatest-battles-in-fantasy-books-ranked/",
+              "publishedAt": "2026-11-22T14:00:17.000Z",
+              "lang": "en",
+              "machineTranslated": true,
+              "titleZh": "奇幻小说中最难忘的7场战斗（排名）"
+            },
+            {
+              "title": "19年前的ATI老显卡挑战《GTA 5》！靠仅64MB显存启动：竟还能到15FPS - 驱动之家",
+              "summary": "19年前的ATI老显卡挑战《GTA 5》！靠仅64MB显存启动：竟还能到15FPS 驱动之家",
+              "source": "谷歌新闻·电竞",
+              "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xLVZzWS1Zdkw2YkpjVnlJUVctaGIwX2J2cGFMUkZMME4xdDdQVVJrMkVjanpFUnBjNmpYRTVSVFBZeUlLM2IxQm1yc3hnUTY3b21MYjZENzg?oc=5",
+              "publishedAt": "2026-11-22T13:56:00.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "2nm、2K 165Hz与主动散热齐发：四款新电竞手机体验横评 - 手机新浪网",
               "summary": "2nm、2K 165Hz与主动散热齐发：四款新电竞手机体验横评 手机新浪网",
               "source": "谷歌新闻·电竞",
@@ -891,8 +911,8 @@
               "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
               "publishedAt": "2026-11-22T13:00:17.000Z",
               "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
+              "machineTranslated": true,
+              "titleZh": "在《GTA 6》中，几乎不可能不杀人就能通关"
             },
             {
               "title": "四款旗舰横评：游戏直播画面清楚、长时间开播不降频的手机怎么挑 - 手机新浪网",
@@ -920,24 +940,6 @@
               "publishedAt": "2026-11-22T12:36:00.000Z",
               "lang": "zh",
               "machineTranslated": false
-            },
-            {
-              "title": "三款电竞旗舰触控横评：iQOO 16、红魔11 Pro、一加Ace 6至尊版，谁才是指哪打哪的选择？ - 手机新浪网",
-              "summary": "三款电竞旗舰触控横评：iQOO 16、红魔11 Pro、一加Ace 6至尊版，谁才是指哪打哪的选择？ 手机新浪网",
-              "source": "谷歌新闻·电竞",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1abUtKMno5N3NoV0s4Y0RwUUNNQS1lVUpsZHBMLVhLRzI0WUdsNGt4MEV6RC1WUk9MYnBkdUtfUnFSS25ydjVyOUl2TXBZTEJ3RGVocWVPUFdBSk52V1hz?oc=5",
-              "publishedAt": "2026-11-22T12:35:53.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "游乐圆 选歌游戏 龙少暗里着迷 - www.fsonline.com.cn",
-              "summary": "游乐圆 选歌游戏 龙少暗里着迷 www.fsonline.com.cn",
-              "source": "谷歌新闻·电竞",
-              "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3bC1pQ3pDQ1lPRHdEcTV0UURhMVdQN0tPQzBtRy12T0c3QzQtRTNoQzc3M1NEZlR1YzlxSVk1ZWthZ3J2ZnZKOUViWmZLZ0N4OFVrcW9DTFAtSzMwSWNlNVBqNzJFYl9OYnc?oc=5",
-              "publishedAt": "2026-11-22T12:33:00.000Z",
-              "lang": "zh",
-              "machineTranslated": false
             }
           ]
         }
@@ -953,6 +955,26 @@
           "name": "手机 / 电脑 / 硬件",
           "items": [
             {
+              "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+              "summary": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+              "publishedAt": "2026-11-22T14:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": true,
+              "titleZh": "任天堂Switch 2游戏机在黑色星期五有50美元的优惠"
+            },
+            {
+              "title": "‘The show is starting soon. Please turn on your headphones.’",
+              "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black dra…",
+              "source": "The Verge",
+              "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+              "publishedAt": "2026-11-22T14:00:00.000Z",
+              "lang": "en",
+              "machineTranslated": true,
+              "titleZh": "“演出即将开始。请打开耳机。”"
+            },
+            {
               "title": "2nm、2K 165Hz与主动散热齐发：四款新电竞手机体验横评 - 手机新浪网",
               "summary": "2nm、2K 165Hz与主动散热齐发：四款新电竞手机体验横评 手机新浪网",
               "source": "谷歌新闻·数码",
@@ -960,6 +982,16 @@
               "publishedAt": "2026-11-22T13:50:27.000Z",
               "lang": "zh",
               "machineTranslated": false
+            },
+            {
+              "title": "Does old computer hardware ever become truly useless?",
+              "summary": "Find out how long old computer hardware usually lasts, what eventually makes it obsolete and when it's worth reusing or selling your PC parts.",
+              "source": "Engadget",
+              "url": "https://www.engadget.com/2319347/old-computer-hardware-truly-useless/",
+              "publishedAt": "2026-11-22T13:45:00.000Z",
+              "lang": "en",
+              "machineTranslated": true,
+              "titleZh": "旧电脑硬件是否真的会变得毫无用处？"
             },
             {
               "title": "触控灵敏的手机推荐哪款？四款高刷旗舰横评，iQOO 16的600Hz肩键为何更跟手 - 手机新浪网",
@@ -986,8 +1018,8 @@
               "url": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
               "publishedAt": "2026-11-22T13:30:00.000Z",
               "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
+              "machineTranslated": true,
+              "titleZh": "Apple AirPods 5与AirPods Pro 3：主要区别是什么？"
             },
             {
               "title": "前三季度中国智能手机市场排名曝光 | 小米18Max在路上 - Sohu",
@@ -1023,8 +1055,8 @@
               "url": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
               "publishedAt": "2026-11-22T13:15:27.000Z",
               "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
+              "machineTranslated": true,
+              "titleZh": "塔麻可吉是如何让我们迷上数字宠物的"
             },
             {
               "title": "10 rare game consoles that almost no one owns",
@@ -1033,36 +1065,8 @@
               "url": "https://www.engadget.com/2321882/rare-game-console-no-one-owns/",
               "publishedAt": "2026-11-22T13:15:00.000Z",
               "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
-            },
-            {
-              "title": "What does the blue snowflake icon mean for your Tesla battery?",
-              "summary": "No, that snowflake isn't a weather report nor is it an Easter egg. But it is something you should pay attention to if you care at all about range.",
-              "source": "Engadget",
-              "url": "https://www.engadget.com/2319342/tesla-battery-blue-snowflake-icon-meaning/",
-              "publishedAt": "2026-11-22T13:15:00.000Z",
-              "lang": "en",
-              "machineTranslated": false,
-              "titleZh": ""
-            },
-            {
-              "title": "2026游戏手机横评：iQOO 16、红魔11 Pro、一加Ace 6至尊版三款新旗舰怎么挑 - 手机新浪网",
-              "summary": "2026游戏手机横评：iQOO 16、红魔11 Pro、一加Ace 6至尊版三款新旗舰怎么挑 手机新浪网",
-              "source": "谷歌新闻·数码",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEdEdWY1FSMHJsNVI0SmpuQnljeXBTVUltcS1QT1NURkhldjlKQ0RHUnZneWZZOUVRV2kxdTFPQTNSUTFRNkozRWgwVXgtaWtoYXBuWkVJOVpial9FM2kw?oc=5",
-              "publishedAt": "2026-11-22T13:01:53.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "卫网君：中国联通手机直连试验星S01公示中标候选人；确定性稀缺：商业航天IPO为何“卖铲人”先敲钟？蓝色起源退出NASA商业空间站竞争 - Sohu",
-              "summary": "卫网君：中国联通手机直连试验星S01公示中标候选人；确定性稀缺：商业航天IPO为何“卖铲人”先敲钟？蓝色起源退出NASA商业空间站竞争 Sohu",
-              "source": "谷歌新闻·数码",
-              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVE95dWp6a05WVFFGT1MwQ2VwQ0tfMFl1b3FRTEVZMWZJcXlpVlZUNThtMm9PVFc2bHBTdUpyOTd0UTVBbUdndHVWb3YxaXBVdXlGSGppMkxleW9Ia21haGd4X2tDUmNsS3oycU4xbzhOZ3ZtZnJmMWk4UjJ0ZTB3c1o0RGFXVkRq?oc=5",
-              "publishedAt": "2026-11-22T13:01:48.000Z",
-              "lang": "zh",
-              "machineTranslated": false
+              "machineTranslated": true,
+              "titleZh": "几乎无人拥有的10款稀有游戏机"
             }
           ]
         }
@@ -1078,6 +1082,24 @@
           "name": "宏观 / 市场",
           "items": [
             {
+              "title": "杰富瑞下调韩国上调印度股市评级 AI占新兴市场指数权重约46% - 观点网",
+              "summary": "杰富瑞下调韩国上调印度股市评级 AI占新兴市场指数权重约46% 观点网",
+              "source": "谷歌新闻·财经",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53a3QwTHl6T01HZDZyZHgzMWR6VUN2ZDhoclFvdWYzTjR6WktnUTZTVUN6UndjVWtuYUNDZTNMcGdSZC1QYWhOVzJTUUxYMVVHTVVUMlBhaHlYZ1c0OGpUZWlB?oc=5",
+              "publishedAt": "2026-11-22T13:56:36.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "三箭齐发稳A股！涉及两融优化、交易降费、创业板交易机制完善 - 东方财富网",
+              "summary": "三箭齐发稳A股！涉及两融优化、交易降费、创业板交易机制完善 东方财富网",
+              "source": "谷歌新闻·财经",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBrZG43MERhMWNvVnpTOTRtdTIxczdBeUxmLWFzczIwVDZITzdIVm5ldm1XVng1SzQ1QjR2QTRkdWNSV2p3V1gxek82NjhfVUV1WkVRNEM0bzNDNHdwX1lPaFljMTk4UQ?oc=5",
+              "publishedAt": "2026-11-22T13:54:14.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "中国市场最高中大型轿车，雷克萨斯ES纯电动版本上市33.99万元起 - 汽车之家",
               "summary": "中国市场最高中大型轿车，雷克萨斯ES纯电动版本上市33.99万元起 汽车之家",
               "source": "谷歌新闻·财经",
@@ -1087,11 +1109,29 @@
               "machineTranslated": false
             },
             {
+              "title": "视频 | 稳市场！“组合拳”来了 - jingjiribao.cn",
+              "summary": "视频 | 稳市场！“组合拳”来了 jingjiribao.cn",
+              "source": "谷歌新闻·财经",
+              "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrejFjVU5FWi1sWnllWjJYbzNIb1FqR2RQSTJjS1dCcFRwNlNYdFh1QzBNbFVfVF8zcFhFUEtuYjlMRk9tNllERzUxTjg4MklpeXVTY1FPWWZBVUpkQzdEaXlaUQ?oc=5",
+              "publishedAt": "2026-11-22T13:51:06.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "2025-2030年动力电池胶粘剂市场及企业调研报告 - 电子工程专辑EE Times China",
               "summary": "2025-2030年动力电池胶粘剂市场及企业调研报告 电子工程专辑EE Times China",
               "source": "谷歌新闻·财经",
               "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wVVhDMjRuNnlIUUtFTks0SVpVM3psMFFBSWREZXNUckY2VXpFMEdpY3FITnUtOFpUdTQ0X0paWE9KSmFZUlZ6UnJnWDB3aC1aOEVv?oc=5",
               "publishedAt": "2026-11-22T13:43:00.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "财经慧说丨稳市政策来了，是这三项 - 新华网",
+              "summary": "财经慧说丨稳市政策来了，是这三项 新华网",
+              "source": "谷歌新闻·财经",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DcW44TWdOYXV0My1xa2laRVZUaXdjcDRTVzM4dWtXUjVYaE8zSFpxRDhVZTBHaEljaHA2LTYwMzJJNHBHN3VrWkpQS3FieG9iM3VQTVV3T28zdjdyLXBUUE0xU2xWcDAyNXQyUkFZRkxhMzZmZzRr?oc=5",
+              "publishedAt": "2026-11-22T13:41:32.000Z",
               "lang": "zh",
               "machineTranslated": false
             },
@@ -1110,6 +1150,15 @@
               "source": "谷歌新闻·财经",
               "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYk9aNkU1N0lmd0RYaDU4NHZLM3VnUlBGQnlqYXZsWU1JaHhCNGo2akp0OUxmeUx4eWNyYV9ZMkNnZlM4bG9KNEI2U3lPLWFSdFB4Mi04eV94Y3RjYjN1TlBKNUUzMTB2TTVabXhIYTEyQWNLYXE5Qk54ZmlvVzBMWVRFMFZ5QXhJ?oc=5",
               "publishedAt": "2026-11-22T13:38:11.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "RNA质控试剂盒市场展望至2035年：mRNA疫苗放行检测需求支撑增长 - 新闻和统计 - IndexBox",
+              "summary": "RNA质控试剂盒市场展望至2035年：mRNA疫苗放行检测需求支撑增长 - 新闻和统计 IndexBox",
+              "source": "谷歌新闻·财经",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZU5ZRVVhQ0RPVjI0MG5Qb3d6cVNGRlZOOU5oSGlWTW1kOGNGQTVmN2lLNTNUaWUwMExFem1aVk1MMXIyRlhxRUJBUFE0ZGh6UkR5WnhBQTRFaTZSZXlTTzRnMjhGSi1pMXFINXAzUko5Zm5wUG1OSktaY3lzS0FybkRxa1U3RHNVMnRFV1JJRlNCWlpwNGFGblBCMFRPTFliRXU0dXRMSWJjRWIxZWljT28xZG9sTklWalVNd0xORmlVLVU5?oc=5",
+              "publishedAt": "2026-11-22T13:31:05.000Z",
               "lang": "zh",
               "machineTranslated": false
             },
@@ -1139,51 +1188,6 @@
               "publishedAt": "2026-11-22T13:13:03.000Z",
               "lang": "zh",
               "machineTranslated": false
-            },
-            {
-              "title": "抢购一空！金价持续下跌，北京“大妈”抄底来了 - 21财经",
-              "summary": "抢购一空！金价持续下跌，北京“大妈”抄底来了 21财经",
-              "source": "谷歌新闻·财经",
-              "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHd6b0VJX1hwT0Z6TzFNT0xibzc0MEp0bTR4NVlzeUtENzF5dDlwUERvU2tHUkpMVWJpNTA1emhtamE5X3pTay00bjVGTWl3dEZ3b3BmeFU1X092MXdDbTBSM08xdlo0alowZkxxMTBnTGs5X0x2TnoySWVHQkhBN1JWVGVPaHAzYlVsSl9kZw?oc=5",
-              "publishedAt": "2026-11-22T13:13:00.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "含氟聚合物市场展望2035：电子与化学加工推动需求加速增长 - 新闻和统计 - IndexBox",
-              "summary": "含氟聚合物市场展望2035：电子与化学加工推动需求加速增长 - 新闻和统计 IndexBox",
-              "source": "谷歌新闻·财经",
-              "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOV3J4UU16NHNzWDdlUTlZbWJZWVNkV3FxRzBlVTlGb3g1NVVpOHNHZFZOTVp1TFpReE1INUFjNVNXdjl5Umt2VjBJd0VpY2RUekk4TS1aVlRidFNyTXdINGJhdzR5M1Q4TmxqZ2Izel9WeHFvNHZlTkxGRWxjVFpXWjh1OF9xRnh6aHpGd3hQc0JfazNGQ1lWeEU3U05oa2x2ZXA4cDNjVzUyYjhRMnQ2a2Y3ckdRMzRHNlFkb2NzQmt4RXRCUWI2SHZpa2JRQXZ6LVA1ZGtlRUpTUFNRYjJxeA?oc=5",
-              "publishedAt": "2026-11-22T13:11:04.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "谷胱甘肽树脂市场展望2035：生物制药需求支撑增长 - 新闻和统计 - IndexBox",
-              "summary": "谷胱甘肽树脂市场展望2035：生物制药需求支撑增长 - 新闻和统计 IndexBox",
-              "source": "谷歌新闻·财经",
-              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQzN3QXV3a0NvZlF4UE93a3BpbFNDb0pjOVUwdDdva0JzRmNhUGd3SnVrQ2V6dGZia0dONGV3YUFmLWw1YlhVZDdERkJVVGZiMmg0QkNGc2JpdEpYNFpISUVJZElsOUlQWkliOGxVcWtmX3ZVSXNQOEhNWExJWlExWW0xTkh3bkp5cjFZWkIyeW9pclhYWktnZHI5YTFaSGdUaEhsMU5Fd0V3dmM1NERibE91N1hkYlpuZUE?oc=5",
-              "publishedAt": "2026-11-22T13:06:04.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "财经调查丨到保税仓空转一圈竟成进口产品？假洋品牌骗局曝光 - 京报网",
-              "summary": "财经调查丨到保税仓空转一圈竟成进口产品？假洋品牌骗局曝光 京报网",
-              "source": "谷歌新闻·财经",
-              "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PSVB3WjlfVTE4VDBhVlFMdjhjS2tkcWRQVWt0Tnh0VEluRjJCYWZDMzl1cWxrZGVERUdfVEZHaXRGTklnLTZyclo3cWl4R3RUWXBiaW5reW5lMW9oX0tnVkVHWnhiRnlSQWVFLUdobkN2Zw?oc=5",
-              "publishedAt": "2026-11-22T13:02:00.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "财经老王丨300多名投资者被骗1.2亿！这场骗局专挑“老手” - 新湖南",
-              "summary": "财经老王丨300多名投资者被骗1.2亿！这场骗局专挑“老手” 新湖南",
-              "source": "谷歌新闻·财经",
-              "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tSmhSdXJlQk9qMVZUYzFuQ1E2OHptUmloY3hYTzRrV0RYRWhYZGRvX2dyc0kxQmROcEFyYld4Wnc4d3JDUlY4NjNhcnRpY2NrNVZ6YWhWR09XOWV5MDBn?oc=5",
-              "publishedAt": "2026-11-22T13:00:42.000Z",
-              "lang": "zh",
-              "machineTranslated": false
             }
           ]
         }
@@ -1199,6 +1203,15 @@
           "name": "民生 / 热点",
           "items": [
             {
+              "title": "重大工程有序推进 助力经济民生发展 - Sohu",
+              "summary": "重大工程有序推进 助力经济民生发展 Sohu",
+              "source": "谷歌新闻·民生",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjRvSG5mbUZ6Z2M1bUZuZzhKUHIyVEIyeUZfbEY1QkZMSWFiRXhxeUs4RXVZcTgxekNzVmhHVFNsOUhtc05zQXhtU185cGNrMGNKSWVXOFV6TWdhVEtkZm9tM2RucWNjNjRkZTNseVlrcV9lZVc3bmwzYXR5MHF4eWpoMk5XM2M3?oc=5",
+              "publishedAt": "2026-11-22T13:32:16.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "主客表现：桑坦德主场连失球，皇家社会客战火力占优 - 懂球帝",
               "summary": "主客表现：桑坦德主场连失球，皇家社会客战火力占优 懂球帝",
               "source": "谷歌新闻·民生",
@@ -1213,15 +1226,6 @@
               "source": "谷歌新闻·民生",
               "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT294WGw4YU9lWklKVU15bjZfRzAxb1ltY2xDVkljTnEwbXNLbnpLTzhYZndJbHctYlpzU2xDeVd5akVvQVpsMmFVTUtSaHR6YTFScGZWNVdHN0NSaDhTd1lWdFVXaGZDY1RYdjJjeGM2c2VXdlg0dGp0QjZoUjRqZHowaTNlZWt6eDd6aXRJQ2JGbDhX?oc=5",
               "publishedAt": "2026-11-22T12:49:18.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "2026年11月23日金融市场热点 - 手机网易网",
-              "summary": "2026年11月23日金融市场热点 手机网易网",
-              "source": "谷歌新闻·民生",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDV0p2dHBYVGgtNGxGMFZMY293UE5kZWNEdFVYU3Zkdkl3RU5mTFRxeE1vVnN0YTlkUEF5di1icUpvbm1oWmhVTVExclhoaWlTaE1GRE9DaEk2QkpkNGM0cDBn?oc=5",
-              "publishedAt": "2026-11-22T11:56:01.000Z",
               "lang": "zh",
               "machineTranslated": false
             },
@@ -1320,6 +1324,24 @@
           "name": "时政 / 要闻",
           "items": [
             {
+              "title": "黄土高原上，苹果正在长成现代化大产业 - 胶东在线",
+              "summary": "黄土高原上，苹果正在长成现代化大产业 胶东在线",
+              "source": "谷歌新闻·时政",
+              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2b1dJZlY5OUx3U0JNWFplZlp0YXZPLU11Qy1hTG1tWG9zOEdBeEJ3S2hjYkVCYkQxenpHbEFuNENTemtSVC11WlZSWUVOVmt3cmIxT1o5VElpa2RWdktnVkYzdGpqV3MtTlFUcXZ1NA?oc=5",
+              "publishedAt": "2026-11-22T13:47:22.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
+              "title": "财经慧说丨稳市政策来了，是这三项 - 新华网",
+              "summary": "财经慧说丨稳市政策来了，是这三项 新华网",
+              "source": "谷歌新闻·时政",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DcW44TWdOYXV0My1xa2laRVZUaXdjcDRTVzM4dWtXUjVYaE8zSFpxRDhVZTBHaEljaHA2LTYwMzJJNHBHN3VrWkpQS3FieG9iM3VQTVV3T28zdjdyLXBUUE0xU2xWcDAyNXQyUkFZRkxhMzZmZzRr?oc=5",
+              "publishedAt": "2026-11-22T13:41:32.000Z",
+              "lang": "zh",
+              "machineTranslated": false
+            },
+            {
               "title": "财经慧说｜稳市政策来了，是这三项 - Sohu",
               "summary": "财经慧说｜稳市政策来了，是这三项 Sohu",
               "source": "谷歌新闻·时政",
@@ -1406,24 +1428,6 @@
               "source": "谷歌新闻·时政",
               "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YMUtkVmVBOHZoeUtTTmJrc1lDWmtwMVNVNzVDbmhxNlpVSXBONXBDczdTbDY0dmdKMUFqXzhKaEhoU21sbXFuUkFaZkNjNUszU250djZzTTJaM1JtMkRtbVk4OE5pTjNwMjhR?oc=5",
               "publishedAt": "2026-11-22T10:46:14.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "中国结算发布降费政策 - 第一财经",
-              "summary": "中国结算发布降费政策 第一财经",
-              "source": "谷歌新闻·时政",
-              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91ZE9QMmI4MTd3VHo5bTRRcFh0QXU4Q0lBdWpRX3lLNHlKYVRVR2xzX0xZWjh6MUlIR3MxaXlIVDNHUURPSmpkS2FXUzlwSTNTUTZR?oc=5",
-              "publishedAt": "2026-11-22T10:44:07.000Z",
-              "lang": "zh",
-              "machineTranslated": false
-            },
-            {
-              "title": "金色相框｜习近平主席深圳之行_要闻_政法新闻网_西部法治权威网媒 - xbfzb.com",
-              "summary": "金色相框｜习近平主席深圳之行_要闻_政法新闻网_西部法治权威网媒 xbfzb.com",
-              "source": "谷歌新闻·时政",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkbW81dU1zWk9NR2VKbkl2NS1CMWZJRmxPMDF4M01XOFY2QmtmcHFLQTNWakR0Ulh5TkQwOE9fRzlvaTgzVGFXYjhkYklKX0FGQ2lBb014bHJKM1hkd0EwMnFNUUM?oc=5",
-              "publishedAt": "2026-11-22T10:33:00.000Z",
               "lang": "zh",
               "machineTranslated": false
             }
