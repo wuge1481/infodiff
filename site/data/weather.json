@@ -3,41 +3,32 @@
     {
       "name": "珠海",
       "current": {
-        "temp": 19,
-        "apparent": 17,
-        "humidity": 51,
-        "wind": 14,
-        "code": 3,
-        "text": "阴",
-        "icon": "☁️"
+        "temp": 15,
+        "apparent": 14,
+        "humidity": 88,
+        "wind": 12,
+        "code": 1,
+        "text": "大部晴",
+        "icon": "🌤️"
       },
       "daily": [
         {
-          "date": "2026-11-25",
-          "code": 51,
-          "text": "毛毛雨",
-          "icon": "🌦️",
-          "tmax": 20,
-          "tmin": 16,
-          "precipProb": 33
-        },
-        {
           "date": "2026-11-26",
-          "code": 81,
-          "text": "阵雨",
-          "icon": "🌦️",
-          "tmax": 21,
-          "tmin": 13,
-          "precipProb": 37
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 22,
+          "tmin": 14,
+          "precipProb": 16
         },
         {
           "date": "2026-11-27",
-          "code": 45,
-          "text": "雾",
-          "icon": "🌫️",
-          "tmax": 25,
-          "tmin": 17,
-          "precipProb": 6
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 26,
+          "tmin": 16,
+          "precipProb": 4
         },
         {
           "date": "2026-11-28",
@@ -46,16 +37,16 @@
           "icon": "☁️",
           "tmax": 25,
           "tmin": 18,
-          "precipProb": 2
+          "precipProb": 0
         },
         {
           "date": "2026-11-29",
-          "code": 51,
-          "text": "毛毛雨",
-          "icon": "🌦️",
-          "tmax": 22,
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 23,
           "tmin": 17,
-          "precipProb": 8
+          "precipProb": 2
         },
         {
           "date": "2026-11-30",
@@ -71,9 +62,18 @@
           "code": 3,
           "text": "阴",
           "icon": "☁️",
-          "tmax": 25,
+          "tmax": 26,
           "tmin": 21,
-          "precipProb": 4
+          "precipProb": 2
+        },
+        {
+          "date": "2026-12-02",
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 27,
+          "tmin": 20,
+          "precipProb": 5
         }
       ],
       "stale": false
@@ -81,41 +81,32 @@
     {
       "name": "澳门",
       "current": {
-        "temp": 20,
-        "apparent": 17,
-        "humidity": 52,
-        "wind": 15,
-        "code": 3,
-        "text": "阴",
-        "icon": "☁️"
+        "temp": 15,
+        "apparent": 14,
+        "humidity": 87,
+        "wind": 12,
+        "code": 1,
+        "text": "大部晴",
+        "icon": "🌤️"
       },
       "daily": [
         {
-          "date": "2026-11-25",
+          "date": "2026-11-26",
           "code": 3,
           "text": "阴",
           "icon": "☁️",
-          "tmax": 20,
-          "tmin": 16,
-          "precipProb": 33
-        },
-        {
-          "date": "2026-11-26",
-          "code": 81,
-          "text": "阵雨",
-          "icon": "🌦️",
-          "tmax": 21,
-          "tmin": 13,
-          "precipProb": 37
+          "tmax": 22,
+          "tmin": 14,
+          "precipProb": 16
         },
         {
           "date": "2026-11-27",
-          "code": 45,
-          "text": "雾",
-          "icon": "🌫️",
-          "tmax": 25,
-          "tmin": 17,
-          "precipProb": 6
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 26,
+          "tmin": 16,
+          "precipProb": 4
         },
         {
           "date": "2026-11-28",
@@ -124,24 +115,24 @@
           "icon": "☁️",
           "tmax": 25,
           "tmin": 18,
-          "precipProb": 2
+          "precipProb": 0
         },
         {
           "date": "2026-11-29",
-          "code": 51,
-          "text": "毛毛雨",
-          "icon": "🌦️",
-          "tmax": 22,
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 23,
           "tmin": 17,
-          "precipProb": 8
+          "precipProb": 2
         },
         {
           "date": "2026-11-30",
           "code": 3,
           "text": "阴",
           "icon": "☁️",
-          "tmax": 24,
-          "tmin": 20,
+          "tmax": 23,
+          "tmin": 19,
           "precipProb": 4
         },
         {
@@ -151,11 +142,20 @@
           "icon": "☁️",
           "tmax": 25,
           "tmin": 21,
-          "precipProb": 4
+          "precipProb": 2
+        },
+        {
+          "date": "2026-12-02",
+          "code": 3,
+          "text": "阴",
+          "icon": "☁️",
+          "tmax": 26,
+          "tmin": 21,
+          "precipProb": 5
         }
       ],
       "stale": false
     }
   ],
-  "updatedAt": "2026-11-25T05:37:50.072Z"
+  "updatedAt": "2026-11-25T20:36:34.199Z"
 }
