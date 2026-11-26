@@ -4,12 +4,12 @@
       "name": "珠海",
       "current": {
         "temp": 21,
-        "apparent": 20,
-        "humidity": 56,
-        "wind": 8,
-        "code": 3,
-        "text": "阴",
-        "icon": "☁️"
+        "apparent": 21,
+        "humidity": 58,
+        "wind": 6,
+        "code": 2,
+        "text": "多云",
+        "icon": "⛅"
       },
       "daily": [
         {
@@ -82,9 +82,9 @@
       "name": "澳门",
       "current": {
         "temp": 21,
-        "apparent": 20,
-        "humidity": 57,
-        "wind": 8,
+        "apparent": 21,
+        "humidity": 60,
+        "wind": 6,
         "code": 3,
         "text": "阴",
         "icon": "☁️"
@@ -157,5 +157,5 @@
       "stale": false
     }
   ],
-  "updatedAt": "2026-11-26T05:20:48.526Z"
+  "updatedAt": "2026-11-26T07:33:41.697Z"
 }
