@@ -199,6 +199,8 @@ export const HOT_PLATFORMS = [
   { id: "zhihu", name: "知乎热榜", kind: "cn" },
   { id: "bilibili", name: "B站热门", kind: "cn" },
   { id: "toutiao", name: "今日头条", kind: "cn" },
+  { id: "tencent", name: "腾讯新闻热搜", kind: "cn" },
+  { id: "v2ex", name: "V2EX 热榜", kind: "cn" },
   { id: "reddit", name: "Reddit 热帖", kind: "intl" },
   { id: "hn", name: "Hacker News", kind: "intl" },
   { id: "gtrends", name: "谷歌趋势", kind: "intl" },

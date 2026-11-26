@@ -39,12 +39,12 @@ function truncate(s, n = 220) {
   return s.length > n ? s.slice(0, n) + "…" : s;
 }
 
-async function fetchText(url, { timeoutMs = OPTIONS.fetchTimeoutMs, headers = {} } = {}) {
+async function fetchText(url, { timeoutMs = OPTIONS.fetchTimeoutMs, headers = {}, method = "GET", body } = {}) {
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
   try {
     const res = await fetch(url, {
-      signal: ctrl.signal,
+      method, body, signal: ctrl.signal,
       headers: { "User-Agent": UA, Accept: "*/*", ...headers },
       redirect: "follow",
     });
@@ -274,9 +274,10 @@ async function fetchHotPlatform(p) {
         })));
       }
       case "zhihu": {
-        const j = await fetchJSON("https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50", {
-          headers: { Referer: "https://www.zhihu.com" },
-        });
+        const cookie = process.env.ZHIHU_COOKIE || "";
+        const headers = { Referer: "https://www.zhihu.com" };
+        if (cookie) headers.Cookie = cookie;
+        const j = await fetchJSON("https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50", { headers });
         const list = (j.data || []).slice(0, OPTIONS.perHotMax);
         return mk(list.map((it, i) => ({
           rank: i + 1, title: it.target?.title || it.target?.title_area?.text || "",
@@ -303,9 +304,46 @@ async function fetchHotPlatform(p) {
           url: it.Url || it.url || `https://so.toutiao.com/search?keyword=${encodeURIComponent(it.Title)}`,
         })));
       }
+      case "tencent": {
+        const j = await fetchJSON("https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50", {
+          headers: { Referer: "https://news.qq.com/" },
+        });
+        const raw = (j.idlist && j.idlist[0] && j.idlist[0].newslist) || [];
+        const list = raw
+          .filter((it) => it && it.title && (it.url || it.surl) && !/每10分钟更新|用户最关注/.test(it.title))
+          .slice(0, OPTIONS.perHotMax);
+        return mk(list.map((it, i) => ({
+          rank: i + 1, title: it.title, hot: "",
+          url: it.url || it.surl || `https://view.inews.qq.com/a/${it.id}`,
+        })));
+      }
+      case "v2ex": {
+        const j = await fetchJSON("https://www.v2ex.com/api/topics/hot.json");
+        const list = (Array.isArray(j) ? j : []).slice(0, OPTIONS.perHotMax);
+        return mk(list.map((it, i) => ({
+          rank: i + 1, title: it.title, hot: it.replies ? `💬 ${it.replies}` : "",
+          url: it.url || `https://www.v2ex.com/t/${it.id}`,
+        })));
+      }
       case "reddit": {
-        const j = await fetchJSON("https://www.reddit.com/r/technology+worldnews+science/hot.json?limit=15", {
-          headers: { "User-Agent": "infodiff/1.0" },
+        const clientId = process.env.REDDIT_CLIENT_ID || "";
+        const clientSecret = process.env.REDDIT_CLIENT_SECRET || "";
+        if (!clientId || !clientSecret) {
+          throw new Error("缺少 Reddit 凭据 (REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)");
+        }
+        const tokenRes = await fetchText("https://www.reddit.com/api/v1/access_token", {
+          method: "POST",
+          headers: {
+            "User-Agent": "infodiff/1.0",
+            Authorization: "Basic " + Buffer.from(`${clientId}:${clientSecret}`).toString("base64"),
+            "Content-Type": "application/x-www-form-urlencoded",
+          },
+          body: "grant_type=client_credentials",
+        });
+        const tok = JSON.parse(tokenRes);
+        if (!tok.access_token) throw new Error("Reddit 获取 token 失败");
+        const j = await fetchJSON("https://oauth.reddit.com/r/technology+worldnews+science/hot?limit=15", {
+          headers: { "User-Agent": "infodiff/1.0", Authorization: `Bearer ${tok.access_token}` },
         });
         const list = (j.data?.children || []).slice(0, OPTIONS.perHotMax);
         return mk(list.map((c, i) => ({
