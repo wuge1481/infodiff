@@ -4,8 +4,8 @@
       "name": "珠海",
       "current": {
         "temp": 21,
-        "apparent": 21,
-        "humidity": 58,
+        "apparent": 22,
+        "humidity": 63,
         "wind": 6,
         "code": 2,
         "text": "多云",
@@ -23,11 +23,11 @@
         },
         {
           "date": "2026-11-27",
-          "code": 2,
-          "text": "多云",
-          "icon": "⛅",
+          "code": 45,
+          "text": "雾",
+          "icon": "🌫️",
           "tmax": 26,
-          "tmin": 16,
+          "tmin": 15,
           "precipProb": 2
         },
         {
@@ -45,7 +45,7 @@
           "text": "阴",
           "icon": "☁️",
           "tmax": 23,
-          "tmin": 17,
+          "tmin": 16,
           "precipProb": 4
         },
         {
@@ -71,8 +71,8 @@
           "code": 3,
           "text": "阴",
           "icon": "☁️",
-          "tmax": 27,
-          "tmin": 20,
+          "tmax": 26,
+          "tmin": 21,
           "precipProb": 0
         }
       ],
@@ -82,8 +82,8 @@
       "name": "澳门",
       "current": {
         "temp": 21,
-        "apparent": 21,
-        "humidity": 60,
+        "apparent": 22,
+        "humidity": 65,
         "wind": 6,
         "code": 3,
         "text": "阴",
@@ -105,7 +105,7 @@
           "text": "多云",
           "icon": "⛅",
           "tmax": 25,
-          "tmin": 16,
+          "tmin": 15,
           "precipProb": 2
         },
         {
@@ -131,7 +131,7 @@
           "code": 3,
           "text": "阴",
           "icon": "☁️",
-          "tmax": 23,
+          "tmax": 24,
           "tmin": 19,
           "precipProb": 8
         },
@@ -157,5 +157,5 @@
       "stale": false
     }
   ],
-  "updatedAt": "2026-11-26T07:33:41.697Z"
+  "updatedAt": "2026-11-26T08:02:26.138Z"
 }
