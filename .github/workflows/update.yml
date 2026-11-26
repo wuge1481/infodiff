@@ -29,6 +29,7 @@ jobs:
         run: node fetch.mjs
         env:
           ZHIHU_COOKIE: ${{ secrets.ZHIHU_COOKIE }}
+          REDDIT_COOKIE: ${{ secrets.REDDIT_COOKIE }}
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
       - name: 校验数据

@@ -326,26 +326,48 @@ async function fetchHotPlatform(p) {
         })));
       }
       case "reddit": {
+        const cookie = process.env.REDDIT_COOKIE || "";
         const clientId = process.env.REDDIT_CLIENT_ID || "";
         const clientSecret = process.env.REDDIT_CLIENT_SECRET || "";
-        if (!clientId || !clientSecret) {
-          throw new Error("缺少 Reddit 凭据 (REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET)");
+        let children = [];
+        // 方式一: 用户 session cookie (用户只需导出一次, 最简单)
+        if (cookie) {
+          try {
+            const j = await fetchJSON("https://www.reddit.com/r/technology+worldnews+science/hot.json?limit=15", {
+              headers: { "User-Agent": "infodiff/1.0", Cookie: cookie },
+            });
+            children = j.data?.children || [];
+            if (children.length) log("Reddit: 使用 session cookie");
+          } catch (e) {
+            warn(`Reddit cookie 方式失败: ${e.message}`);
+          }
         }
-        const tokenRes = await fetchText("https://www.reddit.com/api/v1/access_token", {
-          method: "POST",
-          headers: {
-            "User-Agent": "infodiff/1.0",
-            Authorization: "Basic " + Buffer.from(`${clientId}:${clientSecret}`).toString("base64"),
-            "Content-Type": "application/x-www-form-urlencoded",
-          },
-          body: "grant_type=client_credentials",
-        });
-        const tok = JSON.parse(tokenRes);
-        if (!tok.access_token) throw new Error("Reddit 获取 token 失败");
-        const j = await fetchJSON("https://oauth.reddit.com/r/technology+worldnews+science/hot?limit=15", {
-          headers: { "User-Agent": "infodiff/1.0", Authorization: `Bearer ${tok.access_token}` },
-        });
-        const list = (j.data?.children || []).slice(0, OPTIONS.perHotMax);
+        // 方式二: 官方 OAuth (最稳)
+        if (!children.length && clientId && clientSecret) {
+          try {
+            const tokenRes = await fetchText("https://www.reddit.com/api/v1/access_token", {
+              method: "POST",
+              headers: {
+                "User-Agent": "infodiff/1.0",
+                Authorization: "Basic " + Buffer.from(`${clientId}:${clientSecret}`).toString("base64"),
+                "Content-Type": "application/x-www-form-urlencoded",
+              },
+              body: "grant_type=client_credentials",
+            });
+            const tok = JSON.parse(tokenRes);
+            if (tok.access_token) {
+              const j = await fetchJSON("https://oauth.reddit.com/r/technology+worldnews+science/hot?limit=15", {
+                headers: { "User-Agent": "infodiff/1.0", Authorization: `Bearer ${tok.access_token}` },
+              });
+              children = j.data?.children || [];
+              if (children.length) log("Reddit: 使用 OAuth");
+            }
+          } catch (e) {
+            warn(`Reddit OAuth 方式失败: ${e.message}`);
+          }
+        }
+        if (!children.length) throw new Error("Reddit 无可用凭据或抓取失败");
+        const list = children.slice(0, OPTIONS.perHotMax);
         return mk(list.map((c, i) => ({
           rank: i + 1, title: c.data.title, hot: `▲${c.data.ups ?? c.data.score ?? 0}`,
           url: c.data.url_overridden_by_dest || c.data.url || `https://www.reddit.com${c.data.permalink}`,
